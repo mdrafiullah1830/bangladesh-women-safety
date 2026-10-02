@@ -22,22 +22,27 @@ public partial class AnalyticsService
 
         if (districtId is not null) query = query.Where(i => i.DistrictId == districtId);
 
+        // Only coordinates, verification state and time are read; never identity or evidence
+        // columns. DateTimeOffset ranges are filtered in memory (SQLite cannot translate them).
+        var projected = await query
+            .Select(i => new { i.LastLatitude, i.LastLongitude, i.VerificationStatus, i.CreatedAt })
+            .ToListAsync(ct);
+
         if (from is not null)
         {
             var fromOffset = new DateTimeOffset(from.Value.ToDateTime(TimeOnly.MinValue), TimeSpan.Zero);
-            query = query.Where(i => i.CreatedAt >= fromOffset);
+            projected = projected.Where(p => p.CreatedAt >= fromOffset).ToList();
         }
 
         if (to is not null)
         {
             var toOffset = new DateTimeOffset(to.Value.ToDateTime(TimeOnly.MaxValue), TimeSpan.Zero);
-            query = query.Where(i => i.CreatedAt <= toOffset);
+            projected = projected.Where(p => p.CreatedAt <= toOffset).ToList();
         }
 
-        // Only coordinates plus verification state are read; never identity or evidence columns.
-        var points = await query
-            .Select(i => new { i.LastLatitude, i.LastLongitude, i.VerificationStatus })
-            .ToListAsync(ct);
+        var points = projected
+            .Select(p => new { p.LastLatitude, p.LastLongitude, p.VerificationStatus })
+            .ToList();
 
         return points
             .GroupBy(p =>

@@ -44,23 +44,27 @@ public partial class AnalyticsService
             .OrderBy(d => d.NameEn)
             .ToListAsync(ct);
 
-        var query = _db.Incidents.AsQueryable();
+        // SQLite cannot translate DateTimeOffset range comparisons, so the narrow projection is
+        // pulled first and the date window is applied in memory (no identity or location columns).
+        var projected = await _db.Incidents
+            .Select(i => new { i.DistrictId, i.IsEmergency, i.VerificationStatus, i.Status, i.CreatedAt })
+            .ToListAsync(ct);
 
         if (from is not null)
         {
             var fromOffset = new DateTimeOffset(from.Value.ToDateTime(TimeOnly.MinValue), TimeSpan.Zero);
-            query = query.Where(i => i.CreatedAt >= fromOffset);
+            projected = projected.Where(p => p.CreatedAt >= fromOffset).ToList();
         }
 
         if (to is not null)
         {
             var toOffset = new DateTimeOffset(to.Value.ToDateTime(TimeOnly.MaxValue), TimeSpan.Zero);
-            query = query.Where(i => i.CreatedAt <= toOffset);
+            projected = projected.Where(p => p.CreatedAt <= toOffset).ToList();
         }
 
-        var rows = await query
-            .Select(i => new AggRow(i.DistrictId, i.IsEmergency, i.VerificationStatus, i.Status))
-            .ToListAsync(ct);
+        var rows = projected
+            .Select(p => new AggRow(p.DistrictId, p.IsEmergency, p.VerificationStatus, p.Status))
+            .ToList();
 
         var byDistrict = rows
             .Where(r => r.DistrictId is not null)

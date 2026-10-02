@@ -18,29 +18,54 @@ public static class PermissionPolicy
             Permission.ContactCreateOwn,
             Permission.ContactViewOwn,
             Permission.ContactUpdateOwn,
-            Permission.ContactDeleteOwn
+            Permission.ContactDeleteOwn,
+            Permission.TripManageOwn,
+            Permission.ShareManageOwn,
+            Permission.PrivacyManageOwn,
+            Permission.NotificationManageOwn,
+            Permission.EvidenceManageOwn,
+            Permission.ReferralCreateOwn,
+            Permission.CommunityVote
         },
         [UserRole.TRUSTED_CONTACT] = new()
         {
-            Permission.IncidentViewOwn
+            Permission.IncidentViewOwn,
+            Permission.NotificationManageOwn,
+            Permission.PrivacyManageOwn
         },
         [UserRole.RESPONDER] = new()
         {
             Permission.ResponderViewAssigned,
             Permission.ResponderUpdateAssignment,
-            Permission.IncidentViewOwn
+            Permission.IncidentViewOwn,
+            Permission.NotificationManageOwn,
+            Permission.PrivacyManageOwn
         },
         [UserRole.MODERATOR] = new()
         {
             Permission.ModerationReview,
-            Permission.IncidentViewOwn
+            Permission.IncidentViewOwn,
+            Permission.ReferralCreateOwn,
+            Permission.TripManageOwn,
+            Permission.ShareManageOwn,
+            Permission.PrivacyManageOwn,
+            Permission.NotificationManageOwn,
+            Permission.EvidenceManageOwn,
+            Permission.CommunityVote
         },
         [UserRole.ADMIN] = new()
         {
             Permission.AdminManageUsers,
             Permission.AdminViewAuditLog,
             Permission.ModerationReview,
-            Permission.IncidentViewOwn
+            Permission.IncidentViewOwn,
+            Permission.ReferralCreateOwn,
+            Permission.TripManageOwn,
+            Permission.ShareManageOwn,
+            Permission.PrivacyManageOwn,
+            Permission.NotificationManageOwn,
+            Permission.EvidenceManageOwn,
+            Permission.CommunityVote
         }
     };
 

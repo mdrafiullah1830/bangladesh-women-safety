@@ -92,3 +92,72 @@ public enum LocationSource
     PASSIVE,
     FUSED
 }
+
+public enum IncidentCategory
+{
+    HARASSMENT,
+    STALKING,
+    DOMESTIC_VIOLENCE,
+    SEXUAL_ASSAULT,
+    CYBER_HARASSMENT,
+    WORKPLACE_HARASSMENT,
+    ACID_ATTACK,
+    TRAFFICKING,
+    ROBBERY,
+    ROAD_ACCIDENT,
+    OTHER
+}
+
+public enum OtpPurpose
+{
+    REGISTER,
+    LOGIN,
+    RESET_PASSWORD,
+    PHONE_VERIFY
+}
+
+public enum TripStatus
+{
+    ACTIVE,
+    COMPLETED,
+    AUTO_ESCALATED,
+    CANCELLED
+}
+
+public enum EvidenceVisibility
+{
+    OWNER_ONLY,
+    OWNER_AND_MODERATOR,
+    PUBLIC_REDACTED
+}
+
+public enum ReferralStatus
+{
+    DRAFT,
+    SUBMITTED,
+    ACKNOWLEDGED,
+    CLOSED
+}
+
+public enum DirectoryCategory
+{
+    POLICE,
+    HOSPITAL,
+    FIRE_SERVICE,
+    AMBULANCE,
+    LEGAL_AID,
+    COUNSELING,
+    SAFE_PLACE,
+    SHELTER,
+    ONE_STOP,
+    GOVERNMENT
+}
+
+public enum LegalResourceCategory
+{
+    LAW,
+    TRIBUNAL,
+    LEGAL_AID,
+    HOTLINE,
+    GUIDE
+}

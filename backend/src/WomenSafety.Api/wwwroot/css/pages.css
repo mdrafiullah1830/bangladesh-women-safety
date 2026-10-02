@@ -1,0 +1,142 @@
+/* Women Safety BD — page-level components
+   Loaded after style.css. Covers the classes used by the split page scripts
+   (pages-public / pages-auth / pages-emergency / pages-ops). */
+
+/* ── page header ─────────────────────────────────────────────────────────── */
+.page-head{margin-bottom:24px}.page-head>a.small{display:inline-block;margin-bottom:8px}
+.page-title{font-size:1.75rem;font-weight:800;line-height:1.25}
+.page-sub{color:var(--text-sec);margin-top:6px;font-size:1rem}
+
+/* ── panel & key/value rows ──────────────────────────────────────────────── */
+.panel{background:var(--surface-alt);border:1px solid var(--border);border-radius:var(--r);padding:16px}
+.panel-title{font-weight:700;font-size:.98rem;margin-bottom:10px;display:flex;align-items:center;gap:6px}
+.kv{display:flex;flex-direction:column}
+.kv-row{display:flex;justify-content:space-between;gap:12px;align-items:baseline;padding:7px 0;border-bottom:1px dashed var(--border)}
+.kv-row:last-child{border-bottom:none}
+.kv-row .k{color:var(--text-sec);font-size:.88rem;font-weight:600;flex:none}
+.kv-row .v{font-size:.95rem;font-weight:600;text-align:right;min-width:0;word-break:break-word}
+
+/* ── KPI tiles ───────────────────────────────────────────────────────────── */
+.kpi{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:18px 14px;text-align:center;box-shadow:var(--sh-sm)}
+.kpi-value{font-size:1.7rem;font-weight:800;color:var(--primary);line-height:1.15}
+.kpi-label{font-size:.75rem;color:var(--text-sec);margin-top:6px;font-weight:700;text-transform:uppercase;letter-spacing:.4px}
+
+/* ── tabs ────────────────────────────────────────────────────────────────── */
+.tabs{display:flex;gap:4px;flex-wrap:wrap;border-bottom:1px solid var(--border);margin-bottom:0}
+.tab{padding:9px 16px;border:none;background:transparent;color:var(--text-sec);font-weight:600;font-size:.92rem;
+  border-bottom:2px solid transparent;margin-bottom:-1px;border-radius:var(--r-sm) var(--r-sm) 0 0;transition:color .2s,background .2s,border-color .2s}
+.tab:hover{color:var(--primary);background:var(--surface-alt);text-decoration:none}
+.tab.active{color:var(--primary);border-bottom-color:var(--primary);background:var(--surface-alt)}
+
+/* ── chips ───────────────────────────────────────────────────────────────── */
+.chip{display:inline-flex;align-items:center;gap:4px;padding:3px 11px;border-radius:var(--r-full);
+  background:var(--surface-alt);color:var(--text-sec);font-size:.78rem;font-weight:600;
+  border:1px solid var(--border);cursor:pointer;white-space:nowrap}
+.chip:hover{border-color:var(--primary-light)}
+.chip-active,.chip.active{background:var(--primary);color:#fff;border-color:var(--primary)}
+.chip-active:hover,.chip.active:hover{border-color:var(--primary-dark)}
+
+/* ── segmented control ───────────────────────────────────────────────────── */
+.seg-wrap{margin-bottom:12px}
+.seg{display:inline-flex;background:var(--surface-alt);border:1px solid var(--border);border-radius:var(--r-full);padding:3px;gap:3px;max-width:100%;flex-wrap:wrap}
+.seg-btn{border:none;background:transparent;padding:6px 15px;border-radius:var(--r-full);font-size:.85rem;font-weight:600;
+  color:var(--text-sec);transition:all .2s}
+.seg-btn:hover{color:var(--primary)}
+.seg-btn.active{background:var(--surface);color:var(--primary);box-shadow:var(--sh-sm)}
+
+/* ── stepper ─────────────────────────────────────────────────────────────── */
+.step{padding:7px 15px;border-radius:var(--r-full);background:var(--surface-alt);color:var(--text-sec);
+  font-size:.85rem;font-weight:600;border:1px solid var(--border);white-space:nowrap}
+.step.active{background:var(--primary);color:#fff;border-color:var(--primary)}
+
+/* ── alerts ──────────────────────────────────────────────────────────────── */
+.alert{padding:12px 16px;border-radius:var(--r-sm);font-size:.93rem;line-height:1.5;border:1px solid transparent;margin-bottom:16px}
+.alert-info{background:#E3F2FD;color:#0D47A1;border-color:#BBDEFB}
+.alert-warn{background:#FFF3E0;color:#E65100;border-color:#FFE0B2}
+.alert-danger{background:#FFEBEE;color:#C62828;border-color:#FFCDD2}
+
+/* ── list rows ───────────────────────────────────────────────────────────── */
+.list-item{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:14px 16px;
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--r);
+  color:inherit;text-decoration:none;transition:box-shadow .2s,border-color .2s}
+a.list-item,[role="button"].list-item{cursor:pointer}
+a.list-item:hover,[role="button"].list-item:hover{box-shadow:var(--sh);border-color:var(--primary-light);text-decoration:none}
+.list-main{flex:1;min-width:0}
+.list-meta{color:var(--text-sec);font-size:.9rem;margin-top:4px}
+.list-actions{flex:none;white-space:nowrap}
+.stack{display:flex;flex-direction:column;gap:12px}
+
+/* ── timeline ────────────────────────────────────────────────────────────── */
+.timeline{display:flex;flex-direction:column}
+.timeline-item{position:relative;padding:0 0 18px 24px;border-left:2px solid var(--border);margin-left:5px}
+.timeline-item:last-child{border-left-color:transparent;padding-bottom:0}
+.timeline-dot{position:absolute;left:-7px;top:3px;width:12px;height:12px;border-radius:50%;
+  background:var(--primary);border:2px solid var(--surface);box-sizing:border-box}
+.timeline-body{min-width:0}
+
+/* ── bar chart ───────────────────────────────────────────────────────────── */
+.bar-chart{display:flex;flex-direction:column;gap:10px}
+.bar-row{display:grid;grid-template-columns:minmax(70px,110px) 1fr auto;gap:12px;align-items:center}
+.bar-label{font-size:.85rem;color:var(--text-sec);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar-track{height:10px;background:var(--surface-alt);border:1px solid var(--border);border-radius:var(--r-full);overflow:hidden}
+.bar-fill{height:100%;background:var(--primary);border-radius:var(--r-full);transition:width .4s ease}
+.bar-value{font-size:.85rem;font-weight:700;min-width:34px;text-align:right}
+.progress{width:100%;height:10px;background:var(--border);border-radius:var(--r-full);overflow:hidden}
+
+/* ── checkbox list ───────────────────────────────────────────────────────── */
+.checklist{display:flex;flex-direction:column}
+.check-item{display:flex;gap:10px;align-items:flex-start;padding:8px 0;cursor:pointer;font-size:.95rem}
+.check-item:hover{color:var(--primary)}
+
+/* ── switches / OTP ──────────────────────────────────────────────────────── */
+.switch{cursor:pointer;user-select:none}
+.switch-input{cursor:pointer;accent-color:var(--primary)}
+.otp-box{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-bottom:12px}
+.otp-digit{border:1px solid var(--border);border-radius:var(--r-sm);text-align:center;transition:border-color .2s,box-shadow .2s}
+.otp-digit:focus{outline:none;border-color:var(--primary);box-shadow:0 0 0 3px rgba(156,39,176,.15)}
+
+/* ── SOS countdown ring ──────────────────────────────────────────────────── */
+.count-ring{margin:0 auto;box-sizing:border-box}
+.count-num{text-align:center;line-height:1.1}
+.count-sub{text-align:center;max-width:100%}
+.countdown-note{background:var(--surface-alt);border:1px solid var(--border);border-radius:var(--r-sm);padding:10px 14px;font-size:.92rem}
+
+/* ── empty state / misc boxes ────────────────────────────────────────────── */
+.empty-state{text-align:center;padding:32px 16px;color:var(--text-sec)}
+.empty-state p{margin-bottom:8px}
+.empty-icon{font-size:2rem;opacity:.55;margin-bottom:6px;line-height:1}
+.danger-zone{border:1px dashed var(--danger);border-radius:var(--r);padding:14px;background:#FFF5F5}
+.divider{height:1px;background:var(--border);border:none;margin:16px 0}
+.thumb{border:1px dashed var(--border);border-radius:var(--r);background:var(--surface-alt);padding:10px;min-height:56px}
+.thumb:empty{display:none}
+.heat-dot{position:absolute;border-radius:50%;box-sizing:border-box;cursor:help}
+
+/* ── navigation extras ───────────────────────────────────────────────────── */
+.nav-inner{gap:12px}
+.nav-item{white-space:nowrap}
+.nav-item.nav-logout{color:var(--danger)}
+.nav-links a.nav-item.nav-logout:hover{color:var(--danger);background:#FFEBEE}
+.nav-dot{display:inline-flex;align-items:center;justify-content:center;min-width:18px;height:18px;padding:0 5px;
+  margin-left:6px;border-radius:var(--r-full);background:var(--danger);color:#fff;
+  font-size:.7rem;font-weight:700;line-height:1;vertical-align:middle}
+.nav-burger{display:none;background:none;border:1px solid var(--border);border-radius:var(--r-sm);
+  padding:5px 11px;font-size:1.1rem;color:var(--text);line-height:1}
+.lang-toggle{background:var(--surface-alt);border:1px solid var(--border);border-radius:var(--r-full);
+  padding:5px 13px;font-size:.85rem;font-weight:600;color:var(--text-sec);transition:all .2s}
+.lang-toggle:hover{color:var(--primary);border-color:var(--primary)}
+
+/* ── utilities ───────────────────────────────────────────────────────────── */
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.92em}
+.muted{color:var(--text-sec)}
+.small{font-size:.85rem}
+.nowrap{white-space:nowrap}
+.icon{display:inline-flex;align-items:center;justify-content:center;line-height:1}
+
+/* ── responsive ──────────────────────────────────────────────────────────── */
+@media(max-width:768px){
+  .nav-burger{display:block}
+  .page-title{font-size:1.4rem}
+  .bar-row{grid-template-columns:minmax(60px,90px) 1fr auto}
+  .list-item{flex-wrap:wrap;gap:10px}
+  .list-actions{width:100%}
+}

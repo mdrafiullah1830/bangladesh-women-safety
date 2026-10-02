@@ -33,3 +33,12 @@ packages/
 ## Test Results
 TestResults/
 coverage/
+
+## Runtime data (SQLite DB, uploaded evidence)
+*.db
+*.db-shm
+*.db-wal
+App_Data/
+
+## IDE workspace files
+*.code-workspace

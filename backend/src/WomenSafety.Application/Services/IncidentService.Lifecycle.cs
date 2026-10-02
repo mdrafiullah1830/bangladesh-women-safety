@@ -53,7 +53,7 @@ public partial class IncidentService
     private async Task<string> GenerateReferenceAsync(CancellationToken ct)
     {
         var year = _clock.UtcNow.Year;
-        var count = await _db.Incidents.CountAsync(i => i.CreatedAt.Year == year, ct) + 1;
+        var count = await _db.Incidents.CountAsync(ct) + 1;
         return $"WS-{year}-{count:D6}";
     }
 }

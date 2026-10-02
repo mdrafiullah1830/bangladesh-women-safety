@@ -45,6 +45,9 @@ builder.Services.AddScoped<EmergencyWorkflowService>();
 builder.Services.AddScoped<SyncService>();
 builder.Services.AddScoped<TrustedContactService>();
 builder.Services.AddScoped<AnalyticsService>();
+builder.Services.AddScoped<AuthService>();
+
+builder.Services.AddSingleton<TokenService>();
 
 // ─── Authentication ───────────────────────────────────────────────────────────
 var jwtKey = builder.Configuration["Jwt:Key"] ?? "DevSecretKey-ChangeMe-In-Production-At-Least-32Bytes!!";
@@ -69,7 +72,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 builder.Services.AddAuthorization();
 
 // ─── Controllers, Swagger, Rate Limiting ──────────────────────────────────────
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddJsonOptions(options =>
+    options.JsonSerializerOptions.Converters.Add(new System.Text.Json.Serialization.JsonStringEnumConverter()));
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
@@ -116,7 +120,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseDefaultFiles();
-app.UseStaticFiles();
+app.UseStaticFiles(new StaticFileOptions
+{
+    OnPrepareResponse = ctx =>
+        ctx.Context.Response.Headers.CacheControl = "no-cache, no-store, must-revalidate"
+});
 app.UseCors();
 app.UseRateLimiter();
 app.UseAuthentication();
@@ -130,7 +138,7 @@ app.MapFallbackToFile("index.html");
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<WomenSafetyDbContext>();
-    await db.Database.EnsureCreatedAsync();
+    await SeedData.RunAsync(db);
 }
 
 app.Run();

@@ -23,5 +23,22 @@ public interface IAppDbContext
     DbSet<Division> Divisions { get; }
     DbSet<District> Districts { get; }
 
+    DbSet<AppUser> AppUsers { get; }
+    DbSet<OtpCode> OtpCodes { get; }
+    DbSet<RefreshToken> RefreshTokens { get; }
+    DbSet<UserConsent> UserConsents { get; }
+    DbSet<UserNotification> UserNotifications { get; }
+    DbSet<LocationShare> LocationShares { get; }
+    DbSet<PrivacyDeletionRequest> PrivacyDeletionRequests { get; }
+    DbSet<Trip> Trips { get; }
+    DbSet<TripCheckIn> TripCheckIns { get; }
+    DbSet<IncidentEvidence> IncidentEvidences { get; }
+    DbSet<EmergencyNumberEntry> EmergencyNumberEntries { get; }
+    DbSet<ServiceDirectoryEntry> ServiceDirectoryEntries { get; }
+    DbSet<LegalResource> LegalResources { get; }
+    DbSet<SafetyTip> SafetyTips { get; }
+    DbSet<PoliceReferral> PoliceReferrals { get; }
+    DbSet<ReportVote> ReportVotes { get; }
+
     Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
 }

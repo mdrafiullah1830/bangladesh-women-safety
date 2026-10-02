@@ -19,5 +19,12 @@ public enum Permission
     ResponderUpdateAssignment,
     ModerationReview,
     AdminManageUsers,
-    AdminViewAuditLog
+    AdminViewAuditLog,
+    TripManageOwn,
+    ShareManageOwn,
+    PrivacyManageOwn,
+    NotificationManageOwn,
+    EvidenceManageOwn,
+    ReferralCreateOwn,
+    CommunityVote
 }

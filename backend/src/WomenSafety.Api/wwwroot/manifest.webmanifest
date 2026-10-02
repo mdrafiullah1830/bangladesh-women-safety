@@ -1,0 +1,23 @@
+{
+  "name": "Women Safety Bangladesh — নারী নিরাপত্তা",
+  "short_name": "Women Safety BD",
+  "description": "Emergency SOS, trusted contacts, offline incident reports and Bangladesh safety directory.",
+  "start_url": "/#/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAFAFA",
+  "theme_color": "#9C27B0",
+  "lang": "bn",
+  "categories": ["safety", "utilities"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Emergency SOS", "url": "/#/emergency", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Directory", "url": "/#/directory", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Trusted contacts", "url": "/#/contacts", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

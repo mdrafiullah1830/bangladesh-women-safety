@@ -19,6 +19,9 @@ public class EmergencyIncident
     public SyncState SyncState { get; set; }
 
     public string? Description { get; set; }
+    public string? Title { get; set; }
+    public IncidentCategory Category { get; set; } = IncidentCategory.OTHER;
+    public DateTimeOffset? OccurredAt { get; set; }
     public string? AddressText { get; set; }
     public Guid? DistrictId { get; set; }
     public Guid? DivisionId { get; set; }
