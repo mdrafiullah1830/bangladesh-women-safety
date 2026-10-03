@@ -146,8 +146,20 @@ public static class SeedData
     {
         await db.Database.EnsureCreatedAsync();
 
-        if (await db.Divisions.AnyAsync()) return;
+        if (!await db.Divisions.AnyAsync())
+            await SeedBaseDataAsync(db);
 
+        // Runs on every startup: no-op after the first (marker-guarded) directory seed,
+        // so an existing database picks up the aggregated district directory in place.
+        await DirectorySeedData.RunAsync(db);
+    }
+
+    /// <summary>
+    /// Geography, national helplines, legal resources, safety tips and the anonymised
+    /// demo data used by the public statistics screens. Only runs on an empty database.
+    /// </summary>
+    private static async Task SeedBaseDataAsync(WomenSafetyDbContext db)
+    {
         var now = DateTimeOffset.UtcNow;
         var divisionMap = new Dictionary<string, Division>();
         foreach (var (code, bn, en) in Divisions)
@@ -175,51 +187,6 @@ public static class SeedData
             db.Districts.Add(district);
         }
         await db.SaveChangesAsync();
-
-        var hotlineIds = new Dictionary<DirectoryCategory, string>
-        {
-            [DirectoryCategory.GOVERNMENT] = "999",
-            [DirectoryCategory.POLICE] = "999",
-            [DirectoryCategory.FIRE_SERVICE] = "999",
-            [DirectoryCategory.COUNSELING] = "109",
-            [DirectoryCategory.LEGAL_AID] = "16432",
-            [DirectoryCategory.AMBULANCE] = "16263"
-        };
-
-        foreach (var district in districtMap.Values)
-        {
-            var rows = new (DirectoryCategory, string, string)[]
-            {
-                (DirectoryCategory.POLICE, $"{district.NameEn} District Police Control Room", $"{district.NameBn} জেলা পুলিশ কন্ট্রোল রুম"),
-                (DirectoryCategory.HOSPITAL, $"{district.NameEn} Sadar Hospital", $"{district.NameBn} সদর হাসপাতাল"),
-                (DirectoryCategory.FIRE_SERVICE, $"{district.NameEn} Fire Service Station", $"{district.NameBn} ফায়ার সার্ভিস স্টেশন"),
-                (DirectoryCategory.LEGAL_AID, $"{district.NameEn} District Legal Aid Office", $"{district.NameBn} জেলা আইন সেবা অফিস"),
-                (DirectoryCategory.COUNSELING, $"{district.NameEn} One Stop Crisis Centre", $"{district.NameBn} ওয়ান স্টপ ক্রাইসিস সেন্টার"),
-                (DirectoryCategory.SAFE_PLACE, $"{district.NameEn} Deputy Commissioner Office", $"{district.NameBn} উপজেলা/জেলা প্রশাসকের কার্যালয়")
-            };
-
-            foreach (var (category, en, bn) in rows)
-            {
-                db.ServiceDirectoryEntries.Add(new ServiceDirectoryEntry
-                {
-                    Id = Guid.NewGuid(),
-                    Category = category,
-                    NameEn = en,
-                    NameBn = bn,
-                    DistrictId = district.Id,
-                    DivisionId = district.DivisionId,
-                    AddressEn = $"{en}, {district.NameEn}, Bangladesh",
-                    AddressBn = $"{bn}, {district.NameBn}, বাংলাদেশ",
-                    PhoneNumber = hotlineIds.GetValueOrDefault(category, "999"),
-                    Latitude = district.CenterLatitude,
-                    Longitude = district.CenterLongitude,
-                    Is24x7 = category is DirectoryCategory.POLICE or DirectoryCategory.FIRE_SERVICE,
-                    IsVerified = true,
-                    SourceUrl = "https://www.police.gov.bd",
-                    CreatedAt = now
-                });
-            }
-        }
 
         foreach (var (service, bn, number, category, noteEn, noteBn, order) in Numbers)
         {

@@ -1,0 +1,896 @@
+[
+ {
+  "section": null,
+  "name": "Adabor",
+  "address": "House 105/A, Ring Road, Shyamoli, Dhaka",
+  "landline": "+88-02-9133265",
+  "duty officer / station cell": "+8801199867799",
+  "oc mobile": "+8801713373183",
+  "email": "ocadabor@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Badda",
+  "address": "House 12/A, Road 17, DIT Project, Merul Badda, Dhaka",
+  "landline": "+88-02-9882625",
+  "duty officer / station cell": "+8801191001155",
+  "oc mobile": "+8801713373173",
+  "email": "ocbadda@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Banani",
+  "address": "House 37, Road 7, Banani, Dhaka",
+  "landline": "+88-02-9894032",
+  "duty officer / station cell": "—",
+  "oc mobile": "+8801769058053",
+  "email": "ocbanani@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Bangshal",
+  "address": "English Road, Fazlul Haque Community Center, 2nd Floor, Bangshal, Dhaka",
+  "landline": "+88-02-9565700",
+  "duty officer / station cell": "+8801199883723",
+  "oc mobile": "+8801713398336",
+  "email": "ocbangshal@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Bimanbandar / Airport",
+  "address": "1st Floor, RAB Headquarters area, Uttara, Dhaka",
+  "landline": "+88-02-8901853",
+  "duty officer / station cell": "+8801191001166",
+  "oc mobile": "+8801713373162",
+  "email": "ocbimanbondor@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Cantonment",
+  "address": "MES Jia Colony, Cantonment, Dhaka",
+  "landline": "+88-02-8712350",
+  "duty officer / station cell": "+8801199883739",
+  "oc mobile": "+8801713373172",
+  "email": "occantonment@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Chalkbazar",
+  "address": "Bakshi Bazar Road, Dhaka",
+  "landline": "+88-02-7313966",
+  "duty officer / station cell": "+8801199883724",
+  "oc mobile": "+8801713398337",
+  "email": "—"
+ },
+ {
+  "section": null,
+  "name": "Dakshinkhan",
+  "address": "Bidurbari Road, Thana More, Dakshinkhan, Dhaka",
+  "landline": "+88-02-8931777",
+  "duty officer / station cell": "+8801191001188",
+  "oc mobile": "+8801713373165",
+  "email": "ocdkhan@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Darus-Salam",
+  "address": "100 Golartek, Mirpur, Dhaka",
+  "landline": "+88-02-8032333",
+  "duty officer / station cell": "+8801199802025",
+  "oc mobile": "+8801713398334",
+  "email": "ocdsalam@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Demra",
+  "address": "Bawani Jute Mills area, Demra, Dhaka",
+  "landline": "+88-02-7501155",
+  "duty officer / station cell": "+8801199883727",
+  "oc mobile": "+8801713373144",
+  "email": "ocdemra@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Dhanmondi",
+  "address": "House 21, Road 6, Dhanmondi, Dhaka",
+  "landline": "+88-02-8631941",
+  "duty officer / station cell": "+8801199883622",
+  "oc mobile": "+8801713373126",
+  "email": "ocdhanmondi@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Gandaria",
+  "address": "Keshab Banerjee Road, Gandaria, Dhaka",
+  "landline": "+88-02-7453294",
+  "duty officer / station cell": "+8801199883733",
+  "oc mobile": "+8801713398331",
+  "email": "ocgandaria@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Gulshan",
+  "address": "House 32, 115 Gulshan Avenue, Gulshan-2, Dhaka",
+  "landline": "+88-02-9895826",
+  "duty officer / station cell": "+8801191001144",
+  "oc mobile": "+8801713373171",
+  "email": "ocgulshan@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Hazaribag",
+  "address": "98/2 Gajmahal, Hazaribag, Dhaka",
+  "landline": "+88-02-9669900",
+  "duty officer / station cell": "+8801199883722",
+  "oc mobile": "+8801713373136",
+  "email": "ochazaribag@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Jatrabari",
+  "address": "Dhaka-Demra Highway, Tipu Sultan Road area, Dhaka",
+  "landline": "+88-02-7546244",
+  "duty officer / station cell": "+8801199883729",
+  "oc mobile": "+8801713373146",
+  "email": "ocjatrabari@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Kafrul",
+  "address": "Mirpur-14, Dhaka",
+  "landline": "+88-02-9001061",
+  "duty officer / station cell": "+8801769914772",
+  "oc mobile": "+8801713373191",
+  "email": "ockafrul@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Kalabagan",
+  "address": "30 North Road, Bhuter Goli, Kalabagan, Dhaka",
+  "landline": "+88-02-9665254",
+  "duty officer / station cell": "—",
+  "oc mobile": "+8801713398339",
+  "email": "ockalabagan@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Kamrangirchar",
+  "address": "Signboard, Ashrafabad, Kamrangirchar, Dhaka",
+  "landline": "+88-02-7320323",
+  "duty officer / station cell": "+8801199883725",
+  "oc mobile": "+8801713373137",
+  "email": "ockamrangirchar@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Khilgaon",
+  "address": "Khilgaon Taltola Market, Block A, Dhaka",
+  "landline": "+88-02-7219090",
+  "duty officer / station cell": "+8801191003388",
+  "oc mobile": "+8801713373154",
+  "email": "ockhilgaon@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Khilkhet",
+  "address": "Road 1, Nikunja-2 South Side, Khilkhet, Dhaka",
+  "landline": "+88-02-8911786",
+  "duty officer / station cell": "+8801199883611",
+  "oc mobile": "+8801713373174",
+  "email": "ockhilkhet@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Kadamtoli",
+  "address": "Rayerbag Road, Mujahidnagar, Kadamtoli, Dhaka",
+  "landline": "+88-02-7547755",
+  "duty officer / station cell": "+8801199883732",
+  "oc mobile": "+8801713398333",
+  "email": "ockadamtoli@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Kotwali",
+  "address": "2 Simson Road, Kotwali, Dhaka",
+  "landline": "+88-02-7116255",
+  "duty officer / station cell": "+8801199883646",
+  "oc mobile": "+8801713373135",
+  "email": "ockotwali@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Lalbagh",
+  "address": "House 24, RND Road, Shaheed Nagar, Lalbagh, Dhaka",
+  "landline": "+88-02-9660105",
+  "duty officer / station cell": "+8801199883721",
+  "oc mobile": "+8801713373134",
+  "email": "oclalbagh@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Mirpur Model",
+  "address": "Mirpur-2, Dhaka",
+  "landline": "+88-02-9001001, 9001000",
+  "duty officer / station cell": "+8801199883734",
+  "oc mobile": "+8801713373189",
+  "email": "ocmirpur@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Mohammadpur",
+  "address": "Block E, Mohammadia Housing Estate, Sat Masjid Road, Dhaka",
+  "landline": "+88-02-9119943",
+  "duty officer / station cell": "+8801199883742",
+  "oc mobile": "+8801713373182",
+  "email": "ocmohammadpur@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Motijheel",
+  "address": "140 Motijheel Commercial Area, Dhaka",
+  "landline": "+88-02-9571000",
+  "duty officer / station cell": "+8801199883726",
+  "oc mobile": "+8801713373152",
+  "email": "ocmotijheel@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Mugda",
+  "address": "WAPDA Goli, Mugda, Dhaka",
+  "landline": "+88-02-7549722",
+  "duty officer / station cell": "—",
+  "oc mobile": "+8801769058061",
+  "email": "ocmugda@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "New Market",
+  "address": "Nilkhet-Katabon Road, Dhaka",
+  "landline": "+88-02-8631942",
+  "duty officer / station cell": "+8801199883627",
+  "oc mobile": "+8801713373128",
+  "email": "ocnewmarket@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Pallabi",
+  "address": "Pallabi, Section 12, Dhaka",
+  "landline": "+88-02-9015922",
+  "duty officer / station cell": "+8801199883735",
+  "oc mobile": "+8801713373190",
+  "email": "ocpallabi@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Paltan Model",
+  "address": "Paltan VIP Road, Paltan, Dhaka",
+  "landline": "+88-02-9360802",
+  "duty officer / station cell": "+8801199883737",
+  "oc mobile": "+8801713373155",
+  "email": "ocpaltan@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Ramna Model",
+  "address": "Old Elephant Road, Ramna, Dhaka",
+  "landline": "+88-02-9350468",
+  "duty officer / station cell": "+8801199883720",
+  "oc mobile": "+8801713373125",
+  "email": "ocramna@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Rampura",
+  "address": "House 21, Block H, Road 3/1, Khilgaon, Dhaka",
+  "landline": "+88-02-7290999",
+  "duty officer / station cell": "+8801794449924",
+  "oc mobile": "+8801713398526",
+  "email": "ocrampura@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Rupnagar",
+  "address": "House 10/A, Road 8, Section 7, Mirpur, Dhaka",
+  "landline": "+88-02-9002177",
+  "duty officer / station cell": "—",
+  "oc mobile": "+8801769058059",
+  "email": "ocrupnagar@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Sabujbag",
+  "address": "202 Middle Basabo, Sabujbag, Dhaka",
+  "landline": "+88-02-7219988, 7219344",
+  "duty officer / station cell": "+8801199883736",
+  "oc mobile": "+8801713373153",
+  "email": "ocsabujbag@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Shah Ali",
+  "address": "House 29, Road 1, Block B, Section 1, Shah Ali, Dhaka",
+  "landline": "+88-02-9002777",
+  "duty officer / station cell": "+8801199883625",
+  "oc mobile": "+8801713373192",
+  "email": "ocshahali@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Shahbagh",
+  "address": "Shahbagh More, Shahbagh, Dhaka",
+  "landline": "+88-02-9676699",
+  "duty officer / station cell": "—",
+  "oc mobile": "+8801713373127",
+  "email": "ocshahbagh@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Shahjahanpur",
+  "address": "Shahjahanpur Railway Colony, Dhaka",
+  "landline": "+88-02-9360535",
+  "duty officer / station cell": "—",
+  "oc mobile": "+8801769058063",
+  "email": "ocshahjahanpur@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Sutrapur",
+  "address": "37 Water Works Road, Sutrapur, Dhaka",
+  "landline": "+88-02-7116233",
+  "duty officer / station cell": "+8801713373143",
+  "oc mobile": "—",
+  "email": "—"
+ },
+ {
+  "section": null,
+  "name": "Shyampur",
+  "address": "Postagola, Shyampur, Dhaka",
+  "landline": "+88-02-7440691",
+  "duty officer / station cell": "+8801199883730",
+  "oc mobile": "+8801713373145",
+  "email": "ocshyampur@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Sher-e-Bangla Nagar",
+  "address": "Syed Mahbub Morshed Avenue, Sher-e-Bangla Nagar, Dhaka",
+  "landline": "+88-02-9124154",
+  "duty officer / station cell": "+8801199867888",
+  "oc mobile": "+8801713398335",
+  "email": "ocsherebangla@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Tejgaon Industrial Area",
+  "address": "Plot 440, Tejgaon Industrial Area, Dhaka",
+  "landline": "+88-02-8870309",
+  "duty officer / station cell": "+8801713373181",
+  "oc mobile": "—",
+  "email": "—"
+ },
+ {
+  "section": null,
+  "name": "Tejgaon",
+  "address": "56 Tejkunipara, Farmgate, Dhaka",
+  "landline": "+88-02-9119444, 9119467",
+  "duty officer / station cell": "—",
+  "oc mobile": "+8801713373180",
+  "email": "octejgaon@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Turag",
+  "address": "Turag, Uttara, Dhaka",
+  "landline": "+88-02-8981247",
+  "duty officer / station cell": "+8801199883645",
+  "oc mobile": "+8801713373163",
+  "email": "octurag@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Uttara East",
+  "address": "House 12, Road 14/D, Sector 4, Uttara, Dhaka",
+  "landline": "+88-02-58954126",
+  "duty officer / station cell": "+8801794449948",
+  "oc mobile": "+8801713373161",
+  "email": "ocuttaraeast@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Uttara West",
+  "address": "House 48, Road 18, Sector 11, Uttara, Dhaka",
+  "landline": "+88-02-8991315",
+  "duty officer / station cell": "+8801769058065",
+  "oc mobile": "—",
+  "email": "—"
+ },
+ {
+  "section": null,
+  "name": "Uttarkhan",
+  "address": "Madarbari, Mazar Road, Uttarkhan, Dhaka",
+  "landline": "+88-02-8931888",
+  "duty officer / station cell": "+8801794449946",
+  "oc mobile": "+8801713373164",
+  "email": "ocuttarkhan@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Bhashantek",
+  "address": "Bhashantek, Mirpur, Dhaka",
+  "landline": "+88-02-8713023",
+  "duty officer / station cell": "+8801769914785",
+  "oc mobile": "+8801769058057",
+  "email": "ocbhashantek@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Vatara",
+  "address": "Pragati Sarani, Gulshan Notun Bazar, Vatara, Dhaka",
+  "landline": "+88-02-9897438",
+  "duty officer / station cell": "+8801763661177",
+  "oc mobile": "+8801769050855",
+  "email": "ocvatara@dmp.gov.bd"
+ },
+ {
+  "section": null,
+  "name": "Wari",
+  "address": "Abdur Rahim Community Centre, 25 Tipu Sultan Road, Wari, Dhaka",
+  "landline": "+88-02-9553377",
+  "duty officer / station cell": "—",
+  "oc mobile": "+8801769058051",
+  "email": "ocwari@dmp.gov.bd"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Kotwali",
+  "cmp division": "South",
+  "oc mobile": "01320-052593",
+  "duty officer mobile": "01320-052599"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Bakalia",
+  "cmp division": "South",
+  "oc mobile": "01320-052620",
+  "duty officer mobile": "01320-052626"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Chawkbazar",
+  "cmp division": "South",
+  "oc mobile": "01320-052647",
+  "duty officer mobile": "01320-052653"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Sadarghat",
+  "cmp division": "South",
+  "oc mobile": "01320-052674",
+  "duty officer mobile": "01320-052680"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Panchlaish",
+  "cmp division": "North",
+  "oc mobile": "01320-052470",
+  "duty officer mobile": "01320-052476"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Chandgaon",
+  "cmp division": "North",
+  "oc mobile": "01320-052443",
+  "duty officer mobile": "01320-052449"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Bayezid Bostami",
+  "cmp division": "North",
+  "oc mobile": "01320-052524",
+  "duty officer mobile": "01320-052530"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Khulshi",
+  "cmp division": "North",
+  "oc mobile": "01320-052497",
+  "duty officer mobile": "01320-052503"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Double Mooring",
+  "cmp division": "West",
+  "oc mobile": "01320-052743",
+  "duty officer mobile": "01320-052749"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Pahartali",
+  "cmp division": "West",
+  "oc mobile": "01320-052797",
+  "duty officer mobile": "01320-052803"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Halishahar",
+  "cmp division": "West",
+  "oc mobile": "01320-052770",
+  "duty officer mobile": "01320-052776"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Akbar Shah",
+  "cmp division": "West",
+  "oc mobile": "01320-052824",
+  "duty officer mobile": "01320-052830"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Bandar",
+  "cmp division": "Port",
+  "oc mobile": "01320-052893",
+  "duty officer mobile": "01320-052899"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Patenga",
+  "cmp division": "Port",
+  "oc mobile": "01320-052947",
+  "duty officer mobile": "01320-052953"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "Karnaphuli",
+  "cmp division": "Port",
+  "oc mobile": "01320-052974",
+  "duty officer mobile": "01320-052980"
+ },
+ {
+  "section": "Chattogram Metropolitan Police OC and Duty Officer Numbers",
+  "name": "EPZ",
+  "cmp division": "Port",
+  "oc mobile": "01320-052920",
+  "duty officer mobile": "01320-052926"
+ },
+ {
+  "section": "Rajshahi Metropolitan Police OC Numbers",
+  "name": "Boalia",
+  "oc mobile": "01320-061499"
+ },
+ {
+  "section": "Rajshahi Metropolitan Police OC Numbers",
+  "name": "Rajpara",
+  "oc mobile": "01320-061527"
+ },
+ {
+  "section": "Rajshahi Metropolitan Police OC Numbers",
+  "name": "Chandrima",
+  "oc mobile": "01320-061555"
+ },
+ {
+  "section": "Rajshahi Metropolitan Police OC Numbers",
+  "name": "Motihar",
+  "oc mobile": "01320-061623"
+ },
+ {
+  "section": "Rajshahi Metropolitan Police OC Numbers",
+  "name": "Katakhali",
+  "oc mobile": "01320-061651"
+ },
+ {
+  "section": "Rajshahi Metropolitan Police OC Numbers",
+  "name": "Belpukur",
+  "oc mobile": "01320-061679"
+ },
+ {
+  "section": "Rajshahi Metropolitan Police OC Numbers",
+  "name": "Shah Makhdum",
+  "oc mobile": "01320-061753"
+ },
+ {
+  "section": "Rajshahi Metropolitan Police OC Numbers",
+  "name": "Airport",
+  "oc mobile": "01320-061781"
+ },
+ {
+  "section": "Rajshahi Metropolitan Police OC Numbers",
+  "name": "Paba",
+  "oc mobile": "01320-061809"
+ },
+ {
+  "section": "Rajshahi Metropolitan Police OC Numbers",
+  "name": "Kashiadanga",
+  "oc mobile": "01320-061883"
+ },
+ {
+  "section": "Rajshahi Metropolitan Police OC Numbers",
+  "name": "Damkura",
+  "oc mobile": "01320-061911"
+ },
+ {
+  "section": "Rajshahi Metropolitan Police OC Numbers",
+  "name": "Karnahar",
+  "oc mobile": "01320-061939"
+ },
+ {
+  "section": "Metropolitan Police Stations in Bangladesh",
+  "name": "Dhaka Metropolitan Police",
+  "abbreviation": "DMP",
+  "police stations": "49",
+  "official website": "dmp.gov.bd",
+  "control room or headquarters contact": "100, 9619999; control room 9575500, 01817602050",
+  "station names": "Adabor; Airport; Badda; Banani; Bangshal; Bhashantek; Cantonment; Chawkbazar; Darus-Salam; Dakshinkhan; Demra; Dhanmondi; Gandaria; Gulshan; Hazaribag; Jatrabari; Kadamtoli; Kafrul; Kalabagan; Kamrangirchar; Khilgaon; Khilkhet; Kotwali; Lalbagh; Mirpur Model; Mohammadpur; Motijheel; Mugda; New Market; Pallabi; Paltan; Ramna; Rampura; Rupnagar; Sabujbag; Shah Ali; Shahbagh; Sher-e-Bangla Nagar; Shyampur; Sutrapur; Shahjahanpur; Tejgaon; Tejgaon I/A; Turag; Uttara East; Uttarkhan; Uttara West; Vatara; Wari"
+ },
+ {
+  "section": "Metropolitan Police Stations in Bangladesh",
+  "name": "Chattogram Metropolitan Police",
+  "abbreviation": "CMP",
+  "police stations": "16",
+  "official website": "cmp.gov.bd",
+  "control room or headquarters contact": "Control room 01320-057998-99, 01676123456, 0241360912-14",
+  "station names": "Kotwali; Chandgaon; Panchlaish; Double Mooring; Pahartali; Bandar; Bayezid Bostami; Halishahar; Karnaphuli; Patenga; Bakalia; Akbar Shah; Sadarghat; EPZ; Chawkbazar; Khulshi"
+ },
+ {
+  "section": "Metropolitan Police Stations in Bangladesh",
+  "name": "Khulna Metropolitan Police",
+  "abbreviation": "KMP",
+  "police stations": "8",
+  "official website": "police.gov.bd",
+  "control room or headquarters contact": "—",
+  "station names": "Khulna Sadar; Sonadanga; Khalishpur; Daulatpur; Khan Jahan Ali; Labanchara; Harintana; Aranghata"
+ },
+ {
+  "section": "Metropolitan Police Stations in Bangladesh",
+  "name": "Rajshahi Metropolitan Police",
+  "abbreviation": "RMP",
+  "police stations": "12",
+  "official website": "rmp.gov.bd",
+  "control room or headquarters contact": "Headquarters 02588801300; Police Commissioner 01320-061000",
+  "station names": "Boalia; Rajpara; Chandrima; Motihar; Katakhali; Belpukur; Shah Makhdum; Airport; Paba; Kashiadanga; Damkura; Karnahar"
+ },
+ {
+  "section": "Metropolitan Police Stations in Bangladesh",
+  "name": "Sylhet Metropolitan Police",
+  "abbreviation": "SMP",
+  "police stations": "6",
+  "official website": "smp.police.gov.bd",
+  "control room or headquarters contact": "Official public contact 01320-067038",
+  "station names": "Kotwali; South Surma; Jalalabad; Airport; Moglabazar; Shah Paran"
+ },
+ {
+  "section": "Metropolitan Police Stations in Bangladesh",
+  "name": "Barishal Metropolitan Police",
+  "abbreviation": "BMP",
+  "police stations": "4",
+  "official website": "police.gov.bd",
+  "control room or headquarters contact": "—",
+  "station names": "Kotwali Model; Airport; Kaunia; Bandar"
+ },
+ {
+  "section": "Metropolitan Police Stations in Bangladesh",
+  "name": "Rangpur Metropolitan Police",
+  "abbreviation": "RPMP",
+  "police stations": "6",
+  "official website": "rpmp.gov.bd",
+  "control room or headquarters contact": "Headquarters office 02-589961134",
+  "station names": "Kotwali; Tajhat; Mahiganj; Haragach; Parshuram; Hazirhat"
+ },
+ {
+  "section": "Metropolitan Police Stations in Bangladesh",
+  "name": "Gazipur Metropolitan Police",
+  "abbreviation": "GMP",
+  "police stations": "8",
+  "official website": "gmp.gov.bd",
+  "control room or headquarters contact": "Control room 01320-072998; traffic control 01320-071298",
+  "station names": "Sadar; Basan; Konabari; Kashimpur; Gacha; Pubail; Tongi East; Tongi West"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Bangladesh Police Headquarters",
+  "official domain or portal": "police.gov.bd",
+  "information available": "Headquarters officers, units, notices, forms, contacts and police services"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Online General Diary",
+  "official domain or portal": "gd.police.gov.bd",
+  "information available": "Eligible online GD submission and application tracking"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Online Police Clearance",
+  "official domain or portal": "pcc.police.gov.bd",
+  "information available": "Police clearance application and status"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Dhaka Metropolitan Police",
+  "official domain or portal": "dmp.gov.bd",
+  "information available": "Dhaka station addresses, duty officers, OC contacts and DMP services"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Chattogram Metropolitan Police",
+  "official domain or portal": "cmp.gov.bd",
+  "information available": "CMP station OC numbers, duty officers, divisions and control room"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Rajshahi Metropolitan Police",
+  "official domain or portal": "rmp.gov.bd",
+  "information available": "RMP station OC contacts, units and headquarters information"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Rangpur Metropolitan Police",
+  "official domain or portal": "rpmp.gov.bd",
+  "information available": "Rangpur stations, officers, units and beat-policing contacts"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Gazipur Metropolitan Police",
+  "official domain or portal": "gmp.gov.bd",
+  "information available": "Gazipur station list, headquarters, control room and traffic contact"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Rapid Action Battalion",
+  "official domain or portal": "rab.gov.bd",
+  "information available": "RAB headquarters, battalions and official contact information"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Police Bureau of Investigation",
+  "official domain or portal": "pbi.gov.bd",
+  "information available": "PBI units and investigation-related information"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Tourist Police",
+  "official domain or portal": "touristpolice.gov.bd",
+  "information available": "Tourist assistance units and regional contacts"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Highway Police",
+  "official domain or portal": "highwaypolice.gov.bd",
+  "information available": "Highway police units and road-safety contacts"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Industrial Police",
+  "official domain or portal": "industrialpolice.gov.bd",
+  "information available": "Industrial-zone police units and contacts"
+ },
+ {
+  "section": "Bangladesh Police Services and Official Portals",
+  "name": "Police Cyber Support for Women",
+  "official domain or portal": "Police Cyber Support for Women official Bangladesh Police channel",
+  "information available": "Cyber-harassment support for women"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Police Headquarters",
+  "office or coverage": "6 Phoenix Road, Fulbaria, Dhaka-1000",
+  "main service": "Central command, administration, national police policy and unit coordination",
+  "official domain": "police.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Criminal Investigation Department",
+  "office or coverage": "Bangladesh Police specialist investigation unit",
+  "main service": "Complex crime investigation, forensic support and criminal intelligence",
+  "official domain": "police.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Police Bureau of Investigation",
+  "office or coverage": "Bangladesh Police investigation unit",
+  "main service": "Specialized investigation and case inquiry through PBI offices",
+  "official domain": "pbi.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Anti Terrorism Unit",
+  "office or coverage": "Bangladesh Police specialist unit",
+  "main service": "Counterterrorism investigation, intelligence coordination and operational support",
+  "official domain": "police.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Highway Police",
+  "office or coverage": "National highway-policing unit",
+  "main service": "Highway law and order, traffic safety and investigation of highway road accidents",
+  "official domain": "highwaypolice.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Railway Police",
+  "office or coverage": "Railway police jurisdictions and stations",
+  "main service": "Passenger and property crime, railway-premises law and order and train-related incidents",
+  "official domain": "police.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Tourist Police",
+  "office or coverage": "Tourist areas and regional tourist-police units",
+  "main service": "Safety and assistance for domestic and international tourists",
+  "official domain": "touristpolice.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Industrial Police",
+  "office or coverage": "Major industrial belts including Dhaka, Gazipur, Narayanganj and Chattogram",
+  "main service": "Industrial-zone security, intelligence, investigation and law-and-order support",
+  "official domain": "industrialpolice.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "River Police",
+  "office or coverage": "River routes, terminals and waterways",
+  "main service": "Waterway policing, river crime response and passenger or vessel-related assistance",
+  "official domain": "police.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Armed Police Battalion",
+  "office or coverage": "APBn headquarters and battalions",
+  "main service": "Internal security, protection duties, airport security and support to other police units",
+  "official domain": "apbn.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Special Branch",
+  "office or coverage": "Bangladesh Police intelligence branch",
+  "main service": "Security intelligence, immigration-related functions and special verification services",
+  "official domain": "specialbranch.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Police Telecom",
+  "office or coverage": "Bangladesh Police communications unit",
+  "main service": "Police telecommunications, network support and operational communications",
+  "official domain": "police.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Expatriates Help Cell",
+  "office or coverage": "Police Headquarters, Dhaka",
+  "main service": "Complaints and assistance for Bangladeshi expatriates abroad or during visits home",
+  "official domain": "police.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "Police Cyber Support for Women",
+  "office or coverage": "Bangladesh Police cyber-support service",
+  "main service": "Support for women facing cyber harassment, impersonation, threats or online abuse",
+  "official domain": "police.gov.bd"
+ },
+ {
+  "section": "Bangladesh Police Specialist Unit Directory",
+  "name": "National Emergency Service",
+  "office or coverage": "Nationwide emergency dispatch",
+  "main service": "Immediate police, fire and ambulance coordination through 999",
+  "official domain": "999.gov.bd"
+ },
+ {
+  "section": "Frequently Asked Questions",
+  "name": "National Pay Commission 2025 of Bangladesh"
+ },
+ {
+  "section": "Frequently Asked Questions",
+  "name": "স্থায়ী ফ্ল্যাট পাচ্ছে জুলাই আন্দোলনে শহীদ ৮০৪ পরিবার, ব্যয় ৭৬১ কোটি টাকা"
+ },
+ {
+  "section": "Frequently Asked Questions",
+  "name": "President of Bangladesh is the head of the state"
+ },
+ {
+  "section": "Frequently Asked Questions",
+  "name": "Bangladesh Budget 2019-20"
+ },
+ {
+  "section": "Frequently Asked Questions",
+  "name": "Bogra District"
+ }
+]

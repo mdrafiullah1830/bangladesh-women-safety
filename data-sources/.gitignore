@@ -1,0 +1,15 @@
+# Raw scraped HTML — re-downloadable, and third-party page snapshots don't
+# belong in the repository.
+*.html
+
+# OpenStreetMap API cache — geocode.py refetches these on demand.
+osm_cache_*.json
+
+# One-off repair script with machine-specific absolute paths.
+retry_legalaid.py
+
+# Scratch output from parse_police.py exploration.
+police_dmp_lines.json
+
+__pycache__/
+*.pyc

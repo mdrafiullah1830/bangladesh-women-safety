@@ -1,0 +1,2882 @@
+[
+ {
+  "district": "Bagerhat",
+  "upazila": "Chitalmari",
+  "name": "Chitalmari Upazila Health Complex",
+  "mobile": "01730324570"
+ },
+ {
+  "district": "Bagerhat",
+  "upazila": "Fakirhat",
+  "name": "Fakirhat Upazila Health Complex",
+  "mobile": "01730324571"
+ },
+ {
+  "district": "Bagerhat",
+  "upazila": "Kachua",
+  "name": "Kachua Upazila Health Complex",
+  "mobile": "01730324572"
+ },
+ {
+  "district": "Bagerhat",
+  "upazila": "Mollarhat",
+  "name": "Mollarhat Upazila Health Complex",
+  "mobile": "01730324573"
+ },
+ {
+  "district": "Bagerhat",
+  "upazila": "Mongla",
+  "name": "Mongla Upazila Health Complex",
+  "mobile": "01730324574"
+ },
+ {
+  "district": "Bagerhat",
+  "upazila": "Morelganj",
+  "name": "Morelganj Upazila Health Complex",
+  "mobile": "01730324575"
+ },
+ {
+  "district": "Bagerhat",
+  "upazila": "Rampal",
+  "name": "Rampal Upazila Health Complex",
+  "mobile": "01730324576"
+ },
+ {
+  "district": "Bagerhat",
+  "upazila": "Sarankhola",
+  "name": "Sarankhola Upazila Health Complex",
+  "mobile": "01730324577"
+ },
+ {
+  "district": "Bagerhat",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324793"
+ },
+ {
+  "district": "Bandarban",
+  "upazila": "Alikadam",
+  "name": "Alikadam Upazila Health Complex",
+  "mobile": "01730324824"
+ },
+ {
+  "district": "Bandarban",
+  "upazila": "Lama",
+  "name": "Lama Upazila Health Complex",
+  "mobile": "01730324825"
+ },
+ {
+  "district": "Bandarban",
+  "upazila": "Nykongchari",
+  "name": "Nykongchari Upazila Health Complex",
+  "mobile": "01730324826"
+ },
+ {
+  "district": "Bandarban",
+  "upazila": "Rowangchari",
+  "name": "Rowangchari Upazila Health Complex",
+  "mobile": "01811444605"
+ },
+ {
+  "district": "Bandarban",
+  "upazila": "Ruma",
+  "name": "Ruma Upazila Health Complex",
+  "mobile": "01730324828"
+ },
+ {
+  "district": "Bandarban",
+  "upazila": "Thanchi",
+  "name": "Thanchi Upazila Health Complex",
+  "mobile": "01552140401"
+ },
+ {
+  "district": "Bandarban",
+  "upazila": "District Sadar",
+  "name": "District Hospital, Bandarban",
+  "mobile": "01730324765"
+ },
+ {
+  "district": "Barguna",
+  "upazila": "Bamna",
+  "name": "Bamna Upazila Health Complex",
+  "mobile": "01730324405"
+ },
+ {
+  "district": "Barguna",
+  "upazila": "Betagi",
+  "name": "Betagi Upazila Health Complex",
+  "mobile": "01730324406"
+ },
+ {
+  "district": "Barguna",
+  "upazila": "Pathargatha",
+  "name": "Pathargatha Upazila Health Complex",
+  "mobile": "01730324407"
+ },
+ {
+  "district": "Barguna",
+  "upazila": "Amtali",
+  "name": "Amtali Upazila Health Complex",
+  "mobile": "01730324759"
+ },
+ {
+  "district": "Barguna",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324884"
+ },
+ {
+  "district": "Barisal",
+  "upazila": "Agailjhara",
+  "name": "Agailjhara Upazila Health Complex",
+  "mobile": "01730324408"
+ },
+ {
+  "district": "Barisal",
+  "upazila": "Babuganj",
+  "name": "Babuganj Upazila Health Complex",
+  "mobile": "01730324409"
+ },
+ {
+  "district": "Barisal",
+  "upazila": "Bakerganj",
+  "name": "Bakerganj Upazila Health Complex",
+  "mobile": "01730324410"
+ },
+ {
+  "district": "Barisal",
+  "upazila": "Banaripara",
+  "name": "Banaripara Upazila Health Complex",
+  "mobile": "01730324411"
+ },
+ {
+  "district": "Barisal",
+  "upazila": "Gournadi",
+  "name": "Gournadi Upazila Health Complex",
+  "mobile": "01730324412"
+ },
+ {
+  "district": "Barisal",
+  "upazila": "Hijla",
+  "name": "Hijla Upazila Health Complex",
+  "mobile": "01730324413"
+ },
+ {
+  "district": "Barisal",
+  "upazila": "Mehendiganj",
+  "name": "Mehendiganj Upazila Health Complex",
+  "mobile": "01730324414"
+ },
+ {
+  "district": "Barisal",
+  "upazila": "Muladi",
+  "name": "Muladi Upazila Health Complex",
+  "mobile": "01730324415"
+ },
+ {
+  "district": "Barisal",
+  "upazila": "Wazirpur",
+  "name": "Wazirpur Upazila Health Complex",
+  "mobile": "01730324416"
+ },
+ {
+  "district": "Barisal",
+  "upazila": "District Sadar",
+  "name": "General Hospital",
+  "mobile": "01730324760"
+ },
+ {
+  "district": "Bhola",
+  "upazila": "Borhanuddin",
+  "name": "Borhanuddin Upazila Health Complex",
+  "mobile": "01730324417"
+ },
+ {
+  "district": "Bhola",
+  "upazila": "Charfassion",
+  "name": "Charfassion Upazila Health Complex",
+  "mobile": "01730324418"
+ },
+ {
+  "district": "Bhola",
+  "upazila": "Daulatkhan",
+  "name": "Daulatkhan Upazila Health Complex",
+  "mobile": "01730324419"
+ },
+ {
+  "district": "Bhola",
+  "upazila": "Lalmohan",
+  "name": "Lalmohan Upazila Health Complex",
+  "mobile": "01730324420"
+ },
+ {
+  "district": "Bhola",
+  "upazila": "Manpura",
+  "name": "Manpura Upazila Health Complex",
+  "mobile": "01730324421"
+ },
+ {
+  "district": "Bhola",
+  "upazila": "Tajumuddin",
+  "name": "Tajumuddin Upazila Health Complex",
+  "mobile": "01730324422"
+ },
+ {
+  "district": "Bhola",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324761"
+ },
+ {
+  "district": "Bogra",
+  "upazila": "Adamdighi",
+  "name": "Adamdighi Upazila Health Complex",
+  "mobile": "01730324620"
+ },
+ {
+  "district": "Bogra",
+  "upazila": "Dhunat",
+  "name": "Dhunat Upazila Health Complex",
+  "mobile": "01730324621"
+ },
+ {
+  "district": "Bogra",
+  "upazila": "Dhupchanchia",
+  "name": "Dhupchanchia Upazila Health Complex",
+  "mobile": "01730324622"
+ },
+ {
+  "district": "Bogra",
+  "upazila": "Gabtali",
+  "name": "Gabtali Upazila Health Complex",
+  "mobile": "01730324623"
+ },
+ {
+  "district": "Bogra",
+  "upazila": "Kahaloo",
+  "name": "Kahaloo Upazila Health Complex",
+  "mobile": "01730324624"
+ },
+ {
+  "district": "Bogra",
+  "upazila": "Nandigram",
+  "name": "Nandigram Upazila Health Complex",
+  "mobile": "01730324625"
+ },
+ {
+  "district": "Bogra",
+  "upazila": "Sariakandi",
+  "name": "Sariakandi Upazila Health Complex",
+  "mobile": "01730324626"
+ },
+ {
+  "district": "Bogra",
+  "upazila": "Sherpur",
+  "name": "Sherpur Upazila Health Complex",
+  "mobile": "01730324627"
+ },
+ {
+  "district": "Bogra",
+  "upazila": "Shibganj",
+  "name": "Shibganj Upazila Health Complex",
+  "mobile": "01730324628"
+ },
+ {
+  "district": "Bogra",
+  "upazila": "Sonatola",
+  "name": "Sonatola Upazila Health Complex",
+  "mobile": "01730324629"
+ },
+ {
+  "district": "Bogra",
+  "upazila": "Shajahanpur",
+  "name": "Shajahanpur (Mazira) Upazila Health",
+  "mobile": "01730324877"
+ },
+ {
+  "district": "Bogra",
+  "upazila": "District Sadar",
+  "name": "Mohammad Ali Hospital",
+  "mobile": "01730324803"
+ },
+ {
+  "district": "Brahmanbaria",
+  "upazila": "Akhaura",
+  "name": "Akhaura Upazila Health Complex",
+  "mobile": "01730324436"
+ },
+ {
+  "district": "Brahmanbaria",
+  "upazila": "Bancharampur",
+  "name": "Bancharampur Upazila Health Complex",
+  "mobile": "01730324438"
+ },
+ {
+  "district": "Brahmanbaria",
+  "upazila": "Kashba",
+  "name": "Kashba Upazila Health Complex",
+  "mobile": "01730324439"
+ },
+ {
+  "district": "Brahmanbaria",
+  "upazila": "Nabinagar",
+  "name": "Nabinagar Upazila Health Complex",
+  "mobile": "01730324440"
+ },
+ {
+  "district": "Brahmanbaria",
+  "upazila": "Nasirnagar",
+  "name": "Nasirnagar Upazila Health Complex",
+  "mobile": "01730324441"
+ },
+ {
+  "district": "Brahmanbaria",
+  "upazila": "Sarail",
+  "name": "Sarail Upazila Health Complex",
+  "mobile": "01730324442"
+ },
+ {
+  "district": "Brahmanbaria",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324766"
+ },
+ {
+  "district": "Chandpur",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324767"
+ },
+ {
+  "district": "Chandpur",
+  "upazila": "Faridganj",
+  "name": "Faridganj Upazila Health Complex",
+  "mobile": "01730324830"
+ },
+ {
+  "district": "Chandpur",
+  "upazila": "Haimchar",
+  "name": "Haimchar Upazila Health Complex",
+  "mobile": "01730324831"
+ },
+ {
+  "district": "Chandpur",
+  "upazila": "Haziganj",
+  "name": "Haziganj Upazila Health Complex",
+  "mobile": "01730324832"
+ },
+ {
+  "district": "Chandpur",
+  "upazila": "Kachua",
+  "name": "Kachua Upazila Health Complex",
+  "mobile": "01730324833"
+ },
+ {
+  "district": "Chandpur",
+  "upazila": "Matlab (South)",
+  "name": "Matlab (South) Upazila Health Complex",
+  "mobile": "01730324834"
+ },
+ {
+  "district": "Chandpur",
+  "upazila": "Matlab (North)",
+  "name": "Matlab (North) Upazila Health Complex",
+  "mobile": "01730324835"
+ },
+ {
+  "district": "Chandpur",
+  "upazila": "Saharasti",
+  "name": "Saharasti Upazila Health Complex",
+  "mobile": "01730324836"
+ },
+ {
+  "district": "Chapai",
+  "upazila": "Bholahat",
+  "name": "Bholahat Upazila Health Complex",
+  "mobile": "01730324630"
+ },
+ {
+  "district": "Chapai",
+  "upazila": "Gomastapur",
+  "name": "Gomastapur Upazila Health Complex",
+  "mobile": "01730324631"
+ },
+ {
+  "district": "Chapai",
+  "upazila": "Nachol",
+  "name": "Nachol Upazila Health Complex",
+  "mobile": "01730324632"
+ },
+ {
+  "district": "Chapai",
+  "upazila": "Shibganj",
+  "name": "Shibganj Upazila Health Complex",
+  "mobile": "01730324633"
+ },
+ {
+  "district": "Chapai",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324804"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Anawara",
+  "name": "Anawara Upazila Health Complex",
+  "mobile": "01730324443"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Bashkhali",
+  "name": "Bashkhali Upazila Health Complex",
+  "mobile": "01730324444"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Boalkhali",
+  "name": "Boalkhali Upazila Health Complex",
+  "mobile": "01730324445"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Chandanaish",
+  "name": "Chandanaish Upazila Health Complex",
+  "mobile": "01730324446"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Fatikchari",
+  "name": "Fatikchari Upazila Health Complex",
+  "mobile": "01730324447"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Hathazari",
+  "name": "Hathazari Upazila Health Complex",
+  "mobile": "01730324448"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Lohagara",
+  "name": "Lohagara Upazila Health Complex",
+  "mobile": "01730324449"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Mirsarai",
+  "name": "Mirsarai Upazila Health Complex",
+  "mobile": "01730324450"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Potiya",
+  "name": "Potiya Upazila Health Complex",
+  "mobile": "01730324451"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Rangunia",
+  "name": "Rangunia Upazila Health Complex",
+  "mobile": "01730324452"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Rowzan",
+  "name": "Rowzan Upazila Health Complex",
+  "mobile": "01730324453"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Sandwip",
+  "name": "Sandwip Upazila Health Complex",
+  "mobile": "01730324454"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Satkania",
+  "name": "Satkania Upazila Health Complex",
+  "mobile": "01730324455"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Sitakandu",
+  "name": "Sitakandu Upazila Health Complex",
+  "mobile": "01730324456"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "District Sadar",
+  "name": "General Hospital",
+  "mobile": "01730324768"
+ },
+ {
+  "district": "Chittagong",
+  "upazila": "Rowzan",
+  "name": "Sultanpur 31 Bed Hospital",
+  "mobile": "01730324883"
+ },
+ {
+  "district": "Chuadanga",
+  "upazila": "Alamdanga",
+  "name": "Alamdanga Upazila Health Complex",
+  "mobile": "01730324578"
+ },
+ {
+  "district": "Chuadanga",
+  "upazila": "Damurhuda",
+  "name": "Damurhuda Upazila Health Complex",
+  "mobile": "01730324579"
+ },
+ {
+  "district": "Chuadanga",
+  "upazila": "Jibannagar",
+  "name": "Jibannagar Upazila Health Complex",
+  "mobile": "01730324580"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Barura",
+  "name": "Barura Upazila Health Complex",
+  "mobile": "01730324457"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Brahmanpara",
+  "name": "Brahmanpara Upazila Health Complex",
+  "mobile": "01730324458"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Burichong",
+  "name": "Burichong Upazila Health Complex",
+  "mobile": "01730324459"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Chowddagram",
+  "name": "Chowddagram Upazila Health",
+  "mobile": "01730324460"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Chandina",
+  "name": "Chandina Upazila Health Complex",
+  "mobile": "01730324461"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Daudkandi",
+  "name": "Daudkandi Upazila Health Complex",
+  "mobile": "01730324462"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Debidwar",
+  "name": "Debidwar Upazila Health Complex",
+  "mobile": "01730324463"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Homna",
+  "name": "Homna Upazila Health Complex",
+  "mobile": "01730324464"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Laksham",
+  "name": "Laksham Upazila Health Complex",
+  "mobile": "01730324465"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "District Sadar",
+  "name": "General Hospital",
+  "mobile": "01730324769"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Titas",
+  "name": "Titas Upazila Health Complex",
+  "mobile": "01730324837"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Meghna",
+  "name": "Meghna Upazila Health Complex",
+  "mobile": "01730324838"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Monoharganj",
+  "name": "Monoharganj Upazila Health Complex",
+  "mobile": "01730324839"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Muradnagar",
+  "name": "Muradnagar Upazila Health Complex",
+  "mobile": "01730324840"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Nangolkot",
+  "name": "Nangolkot Upazila Health Complex",
+  "mobile": "01730324841"
+ },
+ {
+  "district": "Comilla",
+  "upazila": "Comilla (South)",
+  "name": "Sadar South Upazila Health Complex",
+  "mobile": "01730324842"
+ },
+ {
+  "district": "CoxsBazar",
+  "upazila": "Chakoria",
+  "name": "Chakoria Upazila Health Complex",
+  "mobile": "01730324466"
+ },
+ {
+  "district": "CoxsBazar",
+  "upazila": "Kutubdia",
+  "name": "Kutubdia Upazila Health Complex",
+  "mobile": "01730324467"
+ },
+ {
+  "district": "CoxsBazar",
+  "upazila": "Moheskhali",
+  "name": "Moheskhali Upazila Health Complex",
+  "mobile": "01730324468"
+ },
+ {
+  "district": "CoxsBazar",
+  "upazila": "Ramu",
+  "name": "Ramu Upazila Health Complex",
+  "mobile": "01730324469"
+ },
+ {
+  "district": "CoxsBazar",
+  "upazila": "Teknaf",
+  "name": "Teknaf Upazila Health Complex",
+  "mobile": "01730324470"
+ },
+ {
+  "district": "CoxsBazar",
+  "upazila": "Ukhyia",
+  "name": "Ukhyia Upazila Health Complex",
+  "mobile": "01730324471"
+ },
+ {
+  "district": "CoxsBazar",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324770"
+ },
+ {
+  "district": "CoxsBazar",
+  "upazila": "Pekua",
+  "name": "Pekua Upazila Health Complex",
+  "mobile": "01730324843"
+ },
+ {
+  "district": "Dhaka",
+  "upazila": "Dhamrai",
+  "name": "Dhamrai Upazila Health Complex",
+  "mobile": "01730324400"
+ },
+ {
+  "district": "Dhaka",
+  "upazila": "Doher",
+  "name": "Doher Upazila Health Complex",
+  "mobile": "01730324401"
+ },
+ {
+  "district": "Dhaka",
+  "upazila": "Keraniganj",
+  "name": "Keraniganj Upazila Health Complex",
+  "mobile": "01730324402"
+ },
+ {
+  "district": "Dhaka",
+  "upazila": "Nawabganj",
+  "name": "Nawabganj Upazila Health Complex",
+  "mobile": "01730324403"
+ },
+ {
+  "district": "Dhaka",
+  "upazila": "Saver",
+  "name": "Saver Upazila Health Complex",
+  "mobile": "01730324404"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "Birampur",
+  "name": "Birampur Upazila Health Complex",
+  "mobile": "01730324634"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "Birganj",
+  "name": "Birganj Upazila Health Complex",
+  "mobile": "01730324635"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "Birol",
+  "name": "Birol Upazila Health Complex",
+  "mobile": "01730324636"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "Bochaganj",
+  "name": "Bochaganj Upazila Health Complex",
+  "mobile": "01730324637"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "Chirirbandar",
+  "name": "Chirirbandar Upazila Health Complex",
+  "mobile": "01730324638"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "Fulbari",
+  "name": "Fulbari Upazila Health Complex",
+  "mobile": "01730324639"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "Ghoraghat",
+  "name": "Ghoraghat Upazila Health Complex",
+  "mobile": "01730324640"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "Hakimpur",
+  "name": "Hakimpur Upazila Health Complex",
+  "mobile": "01730324641"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "Kaharol",
+  "name": "Kaharol Upazila Health Complex",
+  "mobile": "01730324642"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "Khansama",
+  "name": "Khansama Upazila Health Complex",
+  "mobile": "01730324643"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "Nawabganj",
+  "name": "Nawabganj Upazila Health Complex",
+  "mobile": "01730324644"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "Parbatipur",
+  "name": "Parbatipur Upazila Health Complex",
+  "mobile": "01730324645"
+ },
+ {
+  "district": "Dinajpur",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324805"
+ },
+ {
+  "district": "Faridpur",
+  "upazila": "Alfadanga",
+  "name": "Alfadanga Upazila Health Complex",
+  "mobile": "01730324472"
+ },
+ {
+  "district": "Faridpur",
+  "upazila": "Bhanga",
+  "name": "Bhanga Upazila Health Complex",
+  "mobile": "01730324473"
+ },
+ {
+  "district": "Faridpur",
+  "upazila": "Boalmari",
+  "name": "Boalmari Upazila Health Complex",
+  "mobile": "01730324474"
+ },
+ {
+  "district": "Faridpur",
+  "upazila": "Charbhadrason",
+  "name": "Charbhadrason Upazila Health Complex",
+  "mobile": "01730324475"
+ },
+ {
+  "district": "Faridpur",
+  "upazila": "Modhukhali",
+  "name": "Modhukhali Upazila Health Complex",
+  "mobile": "01730324476"
+ },
+ {
+  "district": "Faridpur",
+  "upazila": "Nagarkanda",
+  "name": "Nagarkanda Upazila Health Complex",
+  "mobile": "01730324477"
+ },
+ {
+  "district": "Faridpur",
+  "upazila": "Sadarpur",
+  "name": "Sadarpur Upazila Health Complex",
+  "mobile": "01730324478"
+ },
+ {
+  "district": "Faridpur",
+  "upazila": "District Sadar",
+  "name": "General Hospital",
+  "mobile": "01730324776"
+ },
+ {
+  "district": "Feni",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324771"
+ },
+ {
+  "district": "Feni",
+  "upazila": "Chhagalniya",
+  "name": "Chhagalniya Upazila Health Complex",
+  "mobile": "01730324844"
+ },
+ {
+  "district": "Feni",
+  "upazila": "Daganbhuiyan",
+  "name": "Daganbhuiyan Upazila Health Complex",
+  "mobile": "01730324845"
+ },
+ {
+  "district": "Feni",
+  "upazila": "Parsuram",
+  "name": "Parsuram Upazila Health Complex",
+  "mobile": "01730324846"
+ },
+ {
+  "district": "Feni",
+  "upazila": "Fulgazi",
+  "name": "Fulgazi Upazila Health Complex",
+  "mobile": "01730324847"
+ },
+ {
+  "district": "Feni",
+  "upazila": "Sonagazi",
+  "name": "Sonagazi Upazila Health Complex",
+  "mobile": "01730324848"
+ },
+ {
+  "district": "Gaibandha",
+  "upazila": "Fulchari",
+  "name": "Fulchari Upazila Health Complex",
+  "mobile": "01730324646"
+ },
+ {
+  "district": "Gaibandha",
+  "upazila": "Gobindaganj",
+  "name": "Gobindaganj Upazila Health Complex",
+  "mobile": "01730324647"
+ },
+ {
+  "district": "Gaibandha",
+  "upazila": "Palashbari",
+  "name": "Palashbari Upazila Health Complex",
+  "mobile": "01730324648"
+ },
+ {
+  "district": "Gaibandha",
+  "upazila": "Sadullapur",
+  "name": "Sadullapur Upazila Health Complex",
+  "mobile": "01730324649"
+ },
+ {
+  "district": "Gaibandha",
+  "upazila": "Shaghatta",
+  "name": "Shaghatta Upazila Health Complex",
+  "mobile": "01730324650"
+ },
+ {
+  "district": "Gaibandha",
+  "upazila": "Sundarganj",
+  "name": "Sundarganj Upazila Health Complex",
+  "mobile": "01730324651"
+ },
+ {
+  "district": "Gaibandha",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324806"
+ },
+ {
+  "district": "Gazipur",
+  "upazila": "Kaliakair",
+  "name": "Kaliakair Upazila Health Complex",
+  "mobile": "01730324479"
+ },
+ {
+  "district": "Gazipur",
+  "upazila": "Kaliganj",
+  "name": "Kaliganj Upazila Health Complex",
+  "mobile": "01730324480"
+ },
+ {
+  "district": "Gazipur",
+  "upazila": "Kapasia",
+  "name": "Kapasia Upazila Health Complex",
+  "mobile": "01730324481"
+ },
+ {
+  "district": "Gazipur",
+  "upazila": "Sreepur",
+  "name": "Sreepur Upazila Health Complex",
+  "mobile": "01730324482"
+ },
+ {
+  "district": "Gazipur",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324777"
+ },
+ {
+  "district": "Gopalganj",
+  "upazila": "Kassiani",
+  "name": "Kassiani Upazila Health Complex",
+  "mobile": "01730324483"
+ },
+ {
+  "district": "Gopalganj",
+  "upazila": "Kotalipara",
+  "name": "Kotalipara Upazila Health Complex",
+  "mobile": "01730324484"
+ },
+ {
+  "district": "Gopalganj",
+  "upazila": "Mukshedpur",
+  "name": "Mukshedpur Upazila Health Complex",
+  "mobile": "01730324485"
+ },
+ {
+  "district": "Gopalganj",
+  "upazila": "Tungipara",
+  "name": "Tungipara Upazila Health Complex",
+  "mobile": "01730324486"
+ },
+ {
+  "district": "Gopalganj",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324778"
+ },
+ {
+  "district": "Habiganj",
+  "upazila": "Azmiriganj",
+  "name": "Azmiriganj Upazila Health Complex",
+  "mobile": "01730324728"
+ },
+ {
+  "district": "Habiganj",
+  "upazila": "Bahubal",
+  "name": "Bahubal Upazila Health Complex",
+  "mobile": "01730324729"
+ },
+ {
+  "district": "Habiganj",
+  "upazila": "Baniachong",
+  "name": "Baniachong Upazila Health Complex",
+  "mobile": "01730324730"
+ },
+ {
+  "district": "Habiganj",
+  "upazila": "Chunarughat",
+  "name": "Chunarughat Upazila Health Complex",
+  "mobile": "01730324731"
+ },
+ {
+  "district": "Habiganj",
+  "upazila": "Lakhai",
+  "name": "Lakhai Upazila Health Complex",
+  "mobile": "01730324732"
+ },
+ {
+  "district": "Habiganj",
+  "upazila": "Madhabpur",
+  "name": "Madhabpur Upazila Health Complex",
+  "mobile": "01730324733"
+ },
+ {
+  "district": "Habiganj",
+  "upazila": "Nabiganj",
+  "name": "Nabiganj Upazila Health Complex",
+  "mobile": "01730324734"
+ },
+ {
+  "district": "Habiganj",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324817"
+ },
+ {
+  "district": "Jamalpur",
+  "upazila": "Bakshiganj",
+  "name": "Bakshiganj Upazila Health Complex",
+  "mobile": "01730324487"
+ },
+ {
+  "district": "Jamalpur",
+  "upazila": "Dewanganj",
+  "name": "Dewanganj Upazila Health Complex",
+  "mobile": "01730324488"
+ },
+ {
+  "district": "Jamalpur",
+  "upazila": "Islampur",
+  "name": "Islampur Upazila Health Complex",
+  "mobile": "01730324489"
+ },
+ {
+  "district": "Jamalpur",
+  "upazila": "Madarganj",
+  "name": "Madarganj Upazila Health Complex",
+  "mobile": "01730324490"
+ },
+ {
+  "district": "Jamalpur",
+  "upazila": "Melendaha",
+  "name": "Melendaha Upazila Health Complex",
+  "mobile": "01730324491"
+ },
+ {
+  "district": "Jamalpur",
+  "upazila": "Sarisabari",
+  "name": "Sarisabari Upazila Health Complex",
+  "mobile": "01730324492"
+ },
+ {
+  "district": "Jamalpur",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324779"
+ },
+ {
+  "district": "Jessore",
+  "upazila": "Abhoynagar",
+  "name": "Abhoynagar Upazila Health Complex",
+  "mobile": "01730324581"
+ },
+ {
+  "district": "Jessore",
+  "upazila": "Bagherpara",
+  "name": "Bagherpara Upazila Health Complex",
+  "mobile": "01730324582"
+ },
+ {
+  "district": "Jessore",
+  "upazila": "Chowgacha",
+  "name": "Chowgacha Upazila Health Complex",
+  "mobile": "01730324583"
+ },
+ {
+  "district": "Jessore",
+  "upazila": "Jhikargacha",
+  "name": "Jhikargacha Upazila Health Complex",
+  "mobile": "01730324584"
+ },
+ {
+  "district": "Jessore",
+  "upazila": "Keshabpur",
+  "name": "Keshabpur Upazila Health Complex",
+  "mobile": "01730324585"
+ },
+ {
+  "district": "Jessore",
+  "upazila": "Monirampur",
+  "name": "Monirampur Upazila Health Complex",
+  "mobile": "01730324586"
+ },
+ {
+  "district": "Jessore",
+  "upazila": "Sharsha",
+  "name": "Sharsha Upazila Health Complex",
+  "mobile": "01730324587"
+ },
+ {
+  "district": "Jessore",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324795"
+ },
+ {
+  "district": "Jhalakathi",
+  "upazila": "Kathalia",
+  "name": "Kathalia Upazila Health Complex",
+  "mobile": "01730324423"
+ },
+ {
+  "district": "Jhalakathi",
+  "upazila": "Nalchiti",
+  "name": "Nalchiti Upazila Health Complex",
+  "mobile": "01730324424"
+ },
+ {
+  "district": "Jhalakathi",
+  "upazila": "Rajapur",
+  "name": "Rajapur Upazila Health Complex",
+  "mobile": "01730324425"
+ },
+ {
+  "district": "Jhalakathi",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324762"
+ },
+ {
+  "district": "Jhenaidah",
+  "upazila": "Harinakundu",
+  "name": "Harinakundu Upazila Health Complex",
+  "mobile": "01730324588"
+ },
+ {
+  "district": "Jhenaidah",
+  "upazila": "Kaliganj",
+  "name": "Kaliganj Upazila Health Complex",
+  "mobile": "01730324589"
+ },
+ {
+  "district": "Jhenaidah",
+  "upazila": "Kotchandpur",
+  "name": "Kotchandpur Upazila Health Complex",
+  "mobile": "01730324590"
+ },
+ {
+  "district": "Jhenaidah",
+  "upazila": "Mohespur",
+  "name": "Mohespur Upazila Health Complex",
+  "mobile": "01730324591"
+ },
+ {
+  "district": "Jhenaidah",
+  "upazila": "Sailkupa",
+  "name": "Sailkupa Upazila Health Complex",
+  "mobile": "01730324592"
+ },
+ {
+  "district": "Jhenaidah",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324796"
+ },
+ {
+  "district": "Joypurhat",
+  "upazila": "Akkerpkur",
+  "name": "Akkerpkur Upazila Health Complex",
+  "mobile": "01730324652"
+ },
+ {
+  "district": "Joypurhat",
+  "upazila": "Kalia",
+  "name": "Kalia Upazila Health Complex",
+  "mobile": "01730324653"
+ },
+ {
+  "district": "Joypurhat",
+  "upazila": "Khetlal",
+  "name": "Khetlal Upazila Health Complex",
+  "mobile": "01730324654"
+ },
+ {
+  "district": "Joypurhat",
+  "upazila": "Panchbibi",
+  "name": "Panchbibi Upazila Health Complex",
+  "mobile": "01730324655"
+ },
+ {
+  "district": "Joypurhat",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324807"
+ },
+ {
+  "district": "Khagrachari",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324772"
+ },
+ {
+  "district": "Khagrachari",
+  "upazila": "Dighinala",
+  "name": "Dighinala Upazila Health Complex",
+  "mobile": "01730324849"
+ },
+ {
+  "district": "Khagrachari",
+  "upazila": "Laxmichari",
+  "name": "Laxmichari Upazila Health Complex",
+  "mobile": "01730324850"
+ },
+ {
+  "district": "Khagrachari",
+  "upazila": "Manikchari",
+  "name": "Manikchari Upazila Health Complex",
+  "mobile": "01730324851"
+ },
+ {
+  "district": "Khagrachari",
+  "upazila": "Mohalchari",
+  "name": "Mohalchari Upazila Health Complex",
+  "mobile": "01730324853"
+ },
+ {
+  "district": "Khagrachari",
+  "upazila": "Panchari",
+  "name": "Panchari Upazila Health Complex",
+  "mobile": "01730324854"
+ },
+ {
+  "district": "Khagrachari",
+  "upazila": "Ramgarh",
+  "name": "Ramgarh Upazila Health Complex",
+  "mobile": "01811443518"
+ },
+ {
+  "district": "Khagrachari",
+  "upazila": "Matiranga",
+  "name": "Matiranga Upazila Health Complex",
+  "mobile": "01552140402"
+ },
+ {
+  "district": "Khulna",
+  "upazila": "Batiaghata",
+  "name": "Batiaghata Upazila Health Complex",
+  "mobile": "01730324593"
+ },
+ {
+  "district": "Khulna",
+  "upazila": "Dacope",
+  "name": "Dacope Upazila Health Complex",
+  "mobile": "01730324594"
+ },
+ {
+  "district": "Khulna",
+  "upazila": "Dighalia",
+  "name": "Dighalia Upazila Health Complex",
+  "mobile": "01730324595"
+ },
+ {
+  "district": "Khulna",
+  "upazila": "Dumuria",
+  "name": "Dumuria Upazila Health Complex",
+  "mobile": "01730324596"
+ },
+ {
+  "district": "Khulna",
+  "upazila": "Fultala",
+  "name": "Fultala Upazila Health Complex",
+  "mobile": "01730324597"
+ },
+ {
+  "district": "Khulna",
+  "upazila": "Koyra",
+  "name": "Koyra Upazila Health Complex",
+  "mobile": "01730324598"
+ },
+ {
+  "district": "Khulna",
+  "upazila": "Paikgacha",
+  "name": "Paikgacha Upazila Health Complex",
+  "mobile": "01730324599"
+ },
+ {
+  "district": "Khulna",
+  "upazila": "Rupsha",
+  "name": "Rupsha Upazila Health Complex",
+  "mobile": "01730324600"
+ },
+ {
+  "district": "Khulna",
+  "upazila": "Terakhada",
+  "name": "Terakhada Upazila Health Complex",
+  "mobile": "01730324601"
+ },
+ {
+  "district": "Khulna",
+  "upazila": "District Sadar",
+  "name": "General Hospital",
+  "mobile": "01730324797"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "Astagram",
+  "name": "Astagram Upazila Health Complex",
+  "mobile": "01730324493"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "Bajitpur",
+  "name": "Bajitpur Upazila Health Complex",
+  "mobile": "01730324494"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "Bhairab",
+  "name": "Bhairab Upazila Health Complex",
+  "mobile": "01730324495"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "Hossainpur",
+  "name": "Hossainpur Upazila Health Complex",
+  "mobile": "01730324496"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "Itna",
+  "name": "Itna Upazila Health Complex",
+  "mobile": "01730324497"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "Karimganj",
+  "name": "Karimganj Upazila Health Complex",
+  "mobile": "01730324498"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "Katiadi",
+  "name": "Katiadi Upazila Health Complex",
+  "mobile": "01730324499"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "Kuliairchar",
+  "name": "Kuliairchar Upazila Health Complex",
+  "mobile": "01730324500"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "Mithamoin",
+  "name": "Mithamoin Upazila Health Complex",
+  "mobile": "01730324501"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "Nikli",
+  "name": "Nikli Upazila Health Complex",
+  "mobile": "01730324502"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "Pakundia",
+  "name": "Pakundia Upazila Health Complex",
+  "mobile": "01730324503"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "Tarail",
+  "name": "Tarail Upazila Health Complex",
+  "mobile": "01730324504"
+ },
+ {
+  "district": "Kishoreganj",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324780"
+ },
+ {
+  "district": "Kurigram",
+  "upazila": "Bhurungamari",
+  "name": "Bhurungamari Upazila Health Complex",
+  "mobile": "01730324656"
+ },
+ {
+  "district": "Kurigram",
+  "upazila": "Chilmari",
+  "name": "Chilmari Upazila Health Complex",
+  "mobile": "01730324657"
+ },
+ {
+  "district": "Kurigram",
+  "upazila": "Fulbari",
+  "name": "Fulbari Upazila Health Complex",
+  "mobile": "01730324658"
+ },
+ {
+  "district": "Kurigram",
+  "upazila": "Nageswari",
+  "name": "Nageswari Upazila Health Complex",
+  "mobile": "01730324659"
+ },
+ {
+  "district": "Kurigram",
+  "upazila": "Rajarhat",
+  "name": "Rajarhat Upazila Health Complex",
+  "mobile": "01730324660"
+ },
+ {
+  "district": "Kurigram",
+  "upazila": "Rajibpur",
+  "name": "Rajibpur Upazila Health Complex",
+  "mobile": "01730324661"
+ },
+ {
+  "district": "Kurigram",
+  "upazila": "Ulipur",
+  "name": "Ulipur Upazila Health Complex",
+  "mobile": "01730324663"
+ },
+ {
+  "district": "Kurigram",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324808"
+ },
+ {
+  "district": "Kurigram",
+  "upazila": "Rowmari",
+  "name": "Rowmari Upazila Health Complex",
+  "mobile": "01730324662"
+ },
+ {
+  "district": "Kustia",
+  "upazila": "Bheramara",
+  "name": "Bheramara Upazila Health Complex",
+  "mobile": "01730324602"
+ },
+ {
+  "district": "Kustia",
+  "upazila": "Daulatpur",
+  "name": "Daulatpur Upazila Health Complex",
+  "mobile": "01730324603"
+ },
+ {
+  "district": "Kustia",
+  "upazila": "Khoksha",
+  "name": "Khoksha Upazila Health Complex",
+  "mobile": "01730324604"
+ },
+ {
+  "district": "Kustia",
+  "upazila": "Kumarkahli",
+  "name": "Kumarkahli Upazila Health Complex",
+  "mobile": "01730324605"
+ },
+ {
+  "district": "Kustia",
+  "upazila": "Mirpur",
+  "name": "Mirpur Upazila Health Complex",
+  "mobile": "01730324606"
+ },
+ {
+  "district": "Kustia",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324798"
+ },
+ {
+  "district": "Lalmonirhat",
+  "upazila": "Aditmari",
+  "name": "Aditmari Upazila Health Complex",
+  "mobile": "01730324664"
+ },
+ {
+  "district": "Lalmonirhat",
+  "upazila": "Hatibandha",
+  "name": "Hatibandha Upazila Health Complex",
+  "mobile": "01730324665"
+ },
+ {
+  "district": "Lalmonirhat",
+  "upazila": "Kaliganj",
+  "name": "Kaliganj Upazila Health Complex",
+  "mobile": "01730324666"
+ },
+ {
+  "district": "Lalmonirhat",
+  "upazila": "Patgram",
+  "name": "Patgram Upazila Health Complex",
+  "mobile": "01730324667"
+ },
+ {
+  "district": "Lalmonirhat",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324809"
+ },
+ {
+  "district": "Laxmipur",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324773"
+ },
+ {
+  "district": "Laxmipur",
+  "upazila": "Kamalnagar",
+  "name": "Kamalnagar Upazila Health Complex",
+  "mobile": "01730324856"
+ },
+ {
+  "district": "Laxmipur",
+  "upazila": "Raipur",
+  "name": "Raipur Upazila Health Complex",
+  "mobile": "01730324857"
+ },
+ {
+  "district": "Laxmipur",
+  "upazila": "Ramgati",
+  "name": "Ramgati Upazila Health Complex",
+  "mobile": "01730324858"
+ },
+ {
+  "district": "Laxmipur",
+  "upazila": "Ramganj",
+  "name": "Ramganj Upazila Health Complex",
+  "mobile": "01730324859"
+ },
+ {
+  "district": "Madaripur",
+  "upazila": "Kalkini",
+  "name": "Kalkini Upazila Health Complex",
+  "mobile": "01730324505"
+ },
+ {
+  "district": "Madaripur",
+  "upazila": "Rajoir",
+  "name": "Rajoir Upazila Health Complex",
+  "mobile": "01730324506"
+ },
+ {
+  "district": "Madaripur",
+  "upazila": "Shibchar",
+  "name": "Shibchar Upazila Health Complex",
+  "mobile": "01730324507"
+ },
+ {
+  "district": "Madaripur",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324781"
+ },
+ {
+  "district": "Magura",
+  "upazila": "Mohammadpur",
+  "name": "Mohammadpur Upazila Health Complex",
+  "mobile": "01730324607"
+ },
+ {
+  "district": "Magura",
+  "upazila": "Salikha",
+  "name": "Salikha Upazila Health Complex",
+  "mobile": "01730324608"
+ },
+ {
+  "district": "Magura",
+  "upazila": "Sreepur",
+  "name": "Sreepur Upazila Health Complex",
+  "mobile": "01730324609"
+ },
+ {
+  "district": "Magura",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324799"
+ },
+ {
+  "district": "Manikganj",
+  "upazila": "Daulatpur",
+  "name": "Daulatpur Upazila Health Complex",
+  "mobile": "01730324508"
+ },
+ {
+  "district": "Manikganj",
+  "upazila": "Ghior",
+  "name": "Ghior Upazila Health Complex",
+  "mobile": "01730324509"
+ },
+ {
+  "district": "Manikganj",
+  "upazila": "Harirampur",
+  "name": "Harirampur Upazila Health Complex",
+  "mobile": "01730324510"
+ },
+ {
+  "district": "Manikganj",
+  "upazila": "Saturia",
+  "name": "Saturia Upazila Health Complex",
+  "mobile": "01730324511"
+ },
+ {
+  "district": "Manikganj",
+  "upazila": "Shibalaya",
+  "name": "Shibalaya Upazila Health Complex",
+  "mobile": "01730324512"
+ },
+ {
+  "district": "Manikganj",
+  "upazila": "Singair",
+  "name": "Singair Upazila Health Complex",
+  "mobile": "01730324513"
+ },
+ {
+  "district": "Manikganj",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324782"
+ },
+ {
+  "district": "Meherpur",
+  "upazila": "Mujibnagar",
+  "name": "Mujibnagar Upazila Health Complex",
+  "mobile": "01730324611"
+ },
+ {
+  "district": "Meherpur",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324800"
+ },
+ {
+  "district": "Meherpur",
+  "upazila": "Gangni",
+  "name": "Gangni Upazila Health Complex",
+  "mobile": "01730324610"
+ },
+ {
+  "district": "Moulavibazar",
+  "upazila": "Baralekha",
+  "name": "Baralekha Upazila Health Complex",
+  "mobile": "01730324735"
+ },
+ {
+  "district": "Moulavibazar",
+  "upazila": "Kamalganj",
+  "name": "Kamalganj Upazila Health Complex",
+  "mobile": "01730324736"
+ },
+ {
+  "district": "Moulavibazar",
+  "upazila": "Kaulaura",
+  "name": "Kaulaura Upazila Health Complex",
+  "mobile": "01730324737"
+ },
+ {
+  "district": "Moulavibazar",
+  "upazila": "Rajanager",
+  "name": "Rajanager Upazila Health Complex",
+  "mobile": "01730324738"
+ },
+ {
+  "district": "Moulavibazar",
+  "upazila": "Sreemangal",
+  "name": "Sreemangal Upazila Health Complex",
+  "mobile": "01730324739"
+ },
+ {
+  "district": "Moulavibazar",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324818"
+ },
+ {
+  "district": "Moulavibazar",
+  "upazila": "Juri",
+  "name": "Juri Upazila Health Complex",
+  "mobile": "01730324878"
+ },
+ {
+  "district": "Munshiganj",
+  "upazila": "Gazaria",
+  "name": "Gazaria Upazila Health Complex",
+  "mobile": "01730324514"
+ },
+ {
+  "district": "Munshiganj",
+  "upazila": "Louhanjang",
+  "name": "Louhanjang Upazila Health Complex",
+  "mobile": "01730324515"
+ },
+ {
+  "district": "Munshiganj",
+  "upazila": "Serajdikhan",
+  "name": "Serajdikhan Upazila Health Complex",
+  "mobile": "01730324516"
+ },
+ {
+  "district": "Munshiganj",
+  "upazila": "Sreenagar",
+  "name": "Sreenagar Upazila Health Complex",
+  "mobile": "01730324517"
+ },
+ {
+  "district": "Munshiganj",
+  "upazila": "Tungibari",
+  "name": "Tungibari Upazila Health Complex",
+  "mobile": "01730324518"
+ },
+ {
+  "district": "Munshiganj",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324783"
+ },
+ {
+  "district": "Mymensingh",
+  "upazila": "Bhaluka",
+  "name": "Bhaluka Upazila Health Complex",
+  "mobile": "01730324519"
+ },
+ {
+  "district": "Mymensingh",
+  "upazila": "Dhubaura",
+  "name": "Dhubaura Upazila Health Complex",
+  "mobile": "01730324520"
+ },
+ {
+  "district": "Mymensingh",
+  "upazila": "Fulbaria",
+  "name": "Fulbaria Upazila Health Complex",
+  "mobile": "01730324521"
+ },
+ {
+  "district": "Mymensingh",
+  "upazila": "Fulpur",
+  "name": "Fulpur Upazila Health Complex",
+  "mobile": "01730324522"
+ },
+ {
+  "district": "Mymensingh",
+  "upazila": "Gofargaon",
+  "name": "Gofargaon Upazila Health Complex",
+  "mobile": "01730324523"
+ },
+ {
+  "district": "Mymensingh",
+  "upazila": "Gouripur",
+  "name": "Gouripur Upazila Health Complex",
+  "mobile": "01730324524"
+ },
+ {
+  "district": "Mymensingh",
+  "upazila": "Haluaghat",
+  "name": "Haluaghat Upazila Health Complex",
+  "mobile": "01730324525"
+ },
+ {
+  "district": "Mymensingh",
+  "upazila": "Iswarganj",
+  "name": "Iswarganj Upazila Health Complex",
+  "mobile": "01730324526"
+ },
+ {
+  "district": "Mymensingh",
+  "upazila": "Muktagacha",
+  "name": "Muktagacha Upazila Health Complex",
+  "mobile": "01730324527"
+ },
+ {
+  "district": "Mymensingh",
+  "upazila": "Nandail",
+  "name": "Nandail Upazila Health Complex",
+  "mobile": "01730324528"
+ },
+ {
+  "district": "Mymensingh",
+  "upazila": "Trisal",
+  "name": "Trisal Upazila Health Complex",
+  "mobile": "01730324529"
+ },
+ {
+  "district": "Naogaon",
+  "upazila": "Atrai",
+  "name": "Atrai Upazila Health Complex",
+  "mobile": "01730324668"
+ },
+ {
+  "district": "Naogaon",
+  "upazila": "Badalgchi",
+  "name": "Badalgchi Upazila Health Complex",
+  "mobile": "01730324669"
+ },
+ {
+  "district": "Naogaon",
+  "upazila": "Dhamairhat",
+  "name": "Dhamairhat Upazila Health Complex",
+  "mobile": "01730324670"
+ },
+ {
+  "district": "Naogaon",
+  "upazila": "Manda",
+  "name": "Manda Upazila Health Complex",
+  "mobile": "01730324671"
+ },
+ {
+  "district": "Naogaon",
+  "upazila": "Mohadevpur",
+  "name": "Mohadevpur Upazila Health Complex",
+  "mobile": "01730324672"
+ },
+ {
+  "district": "Naogaon",
+  "upazila": "Niamatpur",
+  "name": "Niamatpur Upazila Health Complex",
+  "mobile": "01730324673"
+ },
+ {
+  "district": "Naogaon",
+  "upazila": "Patnitala",
+  "name": "Patnitala Upazila Health Complex",
+  "mobile": "01730324674"
+ },
+ {
+  "district": "Naogaon",
+  "upazila": "Porsha",
+  "name": "Porsha Upazila Health Complex",
+  "mobile": "01730324675"
+ },
+ {
+  "district": "Naogaon",
+  "upazila": "Raninagar",
+  "name": "Raninagar Upazila Health Complex",
+  "mobile": "01730324676"
+ },
+ {
+  "district": "Naogaon",
+  "upazila": "Sapahar",
+  "name": "Sapahar Upazila Health Complex",
+  "mobile": "01730324677"
+ },
+ {
+  "district": "Naogaon",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324810"
+ },
+ {
+  "district": "Narail",
+  "upazila": "Kalia",
+  "name": "Kalia Upazila Health Complex",
+  "mobile": "01730324612"
+ },
+ {
+  "district": "Narail",
+  "upazila": "Lohagara",
+  "name": "Lohagara Upazila Health Complex",
+  "mobile": "01730324613"
+ },
+ {
+  "district": "Narail",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324801"
+ },
+ {
+  "district": "Narayanganj",
+  "upazila": "Araihazer",
+  "name": "Araihazer Upazila Health Complex",
+  "mobile": "01730324530"
+ },
+ {
+  "district": "Narayanganj",
+  "upazila": "Bandar",
+  "name": "Bandar Upazila Health Complex",
+  "mobile": "01730324531"
+ },
+ {
+  "district": "Narayanganj",
+  "upazila": "Rupganj",
+  "name": "Rupganj Upazila Health Complex",
+  "mobile": "01730324532"
+ },
+ {
+  "district": "Narayanganj",
+  "upazila": "Sonargoan",
+  "name": "Sonargoan Upazila Health Complex",
+  "mobile": "01730324533"
+ },
+ {
+  "district": "Narayanganj",
+  "upazila": "District Sadar",
+  "name": "General Hospital",
+  "mobile": "01730324784"
+ },
+ {
+  "district": "Narayanganj",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324785"
+ },
+ {
+  "district": "Narsingdi",
+  "upazila": "Belabo",
+  "name": "Belabo Upazila Health Complex",
+  "mobile": "01730324534"
+ },
+ {
+  "district": "Narsingdi",
+  "upazila": "Monohardi",
+  "name": "Monohardi Upazila Health Complex",
+  "mobile": "01730324535"
+ },
+ {
+  "district": "Narsingdi",
+  "upazila": "Palash",
+  "name": "Palash Upazila Health Complex",
+  "mobile": "01730324536"
+ },
+ {
+  "district": "Narsingdi",
+  "upazila": "Raipura",
+  "name": "Raipura Upazila Health Complex",
+  "mobile": "01730324537"
+ },
+ {
+  "district": "Narsingdi",
+  "upazila": "Shibpur",
+  "name": "Shibpur Upazila Health Complex",
+  "mobile": "01730324538"
+ },
+ {
+  "district": "Narsingdi",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324786"
+ },
+ {
+  "district": "Narsingdi",
+  "upazila": "District Sadar",
+  "name": "100 Bed Hospital",
+  "mobile": "01730324787"
+ },
+ {
+  "district": "Natore",
+  "upazila": "Bagatipara",
+  "name": "Bagatipara Upazila Health Complex",
+  "mobile": "01730324678"
+ },
+ {
+  "district": "Natore",
+  "upazila": "Baraigram",
+  "name": "Baraigram Upazila Health Complex",
+  "mobile": "01730324679"
+ },
+ {
+  "district": "Natore",
+  "upazila": "Gurudaspur",
+  "name": "Gurudaspur Upazila Health Complex",
+  "mobile": "01730324680"
+ },
+ {
+  "district": "Natore",
+  "upazila": "Lalpur",
+  "name": "Lalpur Upazila Health Complex",
+  "mobile": "01730324681"
+ },
+ {
+  "district": "Natore",
+  "upazila": "Singra",
+  "name": "Singra Upazila Health Complex",
+  "mobile": "01730324682"
+ },
+ {
+  "district": "Natore",
+  "upazila": "District Sadar",
+  "name": "District Hospital, Natore",
+  "mobile": "01730324811"
+ },
+ {
+  "district": "Netrokona",
+  "upazila": "Atpara",
+  "name": "Atpara Upazila Health Complex",
+  "mobile": "01730324539"
+ },
+ {
+  "district": "Netrokona",
+  "upazila": "Barhatta",
+  "name": "Barhatta Upazila Health Complex",
+  "mobile": "01730324540"
+ },
+ {
+  "district": "Netrokona",
+  "upazila": "Durgapur",
+  "name": "Durgapur Upazila Health Complex",
+  "mobile": "01730324541"
+ },
+ {
+  "district": "Netrokona",
+  "upazila": "Kalmakanda",
+  "name": "Kalmakanda Upazila Health Complex",
+  "mobile": "01730324542"
+ },
+ {
+  "district": "Netrokona",
+  "upazila": "Kendua",
+  "name": "Kendua Upazila Health Complex",
+  "mobile": "01730324543"
+ },
+ {
+  "district": "Netrokona",
+  "upazila": "Khaliajuri",
+  "name": "Khaliajuri Upazila Health Complex",
+  "mobile": "01730324544"
+ },
+ {
+  "district": "Netrokona",
+  "upazila": "Madan",
+  "name": "Madan Upazila Health Complex",
+  "mobile": "01730324545"
+ },
+ {
+  "district": "Netrokona",
+  "upazila": "Mohanganj",
+  "name": "Mohanganj Upazila Health Complex",
+  "mobile": "01730324546"
+ },
+ {
+  "district": "Netrokona",
+  "upazila": "Purbadhala",
+  "name": "Purbadhala Upazila Health Complex",
+  "mobile": "01730324547"
+ },
+ {
+  "district": "Netrokona",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324788"
+ },
+ {
+  "district": "Nilphamari",
+  "upazila": "Dimla",
+  "name": "Dimla Upazila Health Complex",
+  "mobile": "01730324683"
+ },
+ {
+  "district": "Nilphamari",
+  "upazila": "Domar",
+  "name": "Domar Upazila Health Complex",
+  "mobile": "01730324684"
+ },
+ {
+  "district": "Nilphamari",
+  "upazila": "Jhaldhaka",
+  "name": "Jhaldhaka Upazila Health Complex",
+  "mobile": "01730324685"
+ },
+ {
+  "district": "Nilphamari",
+  "upazila": "Keshoreganj",
+  "name": "Keshoreganj Upazila Health Complex",
+  "mobile": "01730324686"
+ },
+ {
+  "district": "Nilphamari",
+  "upazila": "Saidpur",
+  "name": "Saidpur Upazila Health Complex",
+  "mobile": "01730324687"
+ },
+ {
+  "district": "Nilphamari",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324812"
+ },
+ {
+  "district": "Nilphamari",
+  "upazila": "Saidpur",
+  "name": "50 beded Hospital, Saidpur",
+  "mobile": "01730324822"
+ },
+ {
+  "district": "Noakhali",
+  "upazila": "District Sadar",
+  "name": "General Hospital",
+  "mobile": "01730324774"
+ },
+ {
+  "district": "Noakhali",
+  "upazila": "Begumganj",
+  "name": "Begumganj Upazila Health Complex",
+  "mobile": "01730324860"
+ },
+ {
+  "district": "Noakhali",
+  "upazila": "Companiganj",
+  "name": "Companiganj Upazila Health Complex",
+  "mobile": "01730324862"
+ },
+ {
+  "district": "Noakhali",
+  "upazila": "Hatiya",
+  "name": "Hatiya Upazila Health Complex",
+  "mobile": "01730324863"
+ },
+ {
+  "district": "Noakhali",
+  "upazila": "Senbag",
+  "name": "Senbag Upazila Health Complex",
+  "mobile": "01730324864"
+ },
+ {
+  "district": "Noakhali",
+  "upazila": "Sonaimuri",
+  "name": "Sonaimuri Upazila Health Complex",
+  "mobile": "01730324865"
+ },
+ {
+  "district": "Noakhali",
+  "upazila": "Subarnochar",
+  "name": "Subarnochar Upazila Health Complex",
+  "mobile": "01730324866"
+ },
+ {
+  "district": "Noakhali",
+  "upazila": "Chatkhil",
+  "name": "Chatkhil Upazila Health Complex",
+  "mobile": "01730324861"
+ },
+ {
+  "district": "Pabna",
+  "upazila": "Atghoria",
+  "name": "Atghoria Upazila Health Complex",
+  "mobile": "01730324688"
+ },
+ {
+  "district": "Pabna",
+  "upazila": "Bhangura",
+  "name": "Bhangura Upazila Health Complex",
+  "mobile": "01730324689"
+ },
+ {
+  "district": "Pabna",
+  "upazila": "Bera",
+  "name": "Bera Upazila Health Complex",
+  "mobile": "01730324690"
+ },
+ {
+  "district": "Pabna",
+  "upazila": "Chatmohar",
+  "name": "Chatmohar Upazila Health Complex",
+  "mobile": "01730324691"
+ },
+ {
+  "district": "Pabna",
+  "upazila": "Faridpur",
+  "name": "Faridpur Upazila Health Complex",
+  "mobile": "01730324692"
+ },
+ {
+  "district": "Pabna",
+  "upazila": "Iswardi",
+  "name": "Iswardi Upazila Health Complex",
+  "mobile": "01730324693"
+ },
+ {
+  "district": "Pabna",
+  "upazila": "Santhia",
+  "name": "Santhia Upazila Health Complex",
+  "mobile": "01730324694"
+ },
+ {
+  "district": "Pabna",
+  "upazila": "Sujanagar",
+  "name": "Sujanagar Upazila Health Complex",
+  "mobile": "01730324695"
+ },
+ {
+  "district": "Pabna",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324813"
+ },
+ {
+  "district": "Panchagarh",
+  "upazila": "Atwari",
+  "name": "Atwari Upazila Health Complex",
+  "mobile": "01730324696"
+ },
+ {
+  "district": "Panchagarh",
+  "upazila": "Boda",
+  "name": "Boda Upazila Health Complex",
+  "mobile": "01730324697"
+ },
+ {
+  "district": "Panchagarh",
+  "upazila": "Debiganj",
+  "name": "Debiganj Upazila Health Complex",
+  "mobile": "01730324698"
+ },
+ {
+  "district": "Panchagarh",
+  "upazila": "Tetulia",
+  "name": "Tetulia Upazila Health Complex",
+  "mobile": "01730324699"
+ },
+ {
+  "district": "Panchagarh",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324814"
+ },
+ {
+  "district": "Patuakhali",
+  "upazila": "Bauphal",
+  "name": "Bauphal Upazila Health Complex",
+  "mobile": "01730324426"
+ },
+ {
+  "district": "Patuakhali",
+  "upazila": "Dashmina",
+  "name": "Dashmina Upazila Health Complex",
+  "mobile": "01730324427"
+ },
+ {
+  "district": "Patuakhali",
+  "upazila": "Galachipa",
+  "name": "Galachipa Upazila Health Complex",
+  "mobile": "01730324428"
+ },
+ {
+  "district": "Patuakhali",
+  "upazila": "Kalapara",
+  "name": "Kalapara Upazila Health Complex",
+  "mobile": "01730324429"
+ },
+ {
+  "district": "Patuakhali",
+  "upazila": "Mirzaganj",
+  "name": "Mirzaganj Upazila Health Complex",
+  "mobile": "01730324430"
+ },
+ {
+  "district": "Patuakhali",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324763"
+ },
+ {
+  "district": "Patuakhali",
+  "upazila": "Dumki",
+  "name": "Dumky Upazila Health Complex",
+  "mobile": "01730324823"
+ },
+ {
+  "district": "Pirojpur",
+  "upazila": "Bhandaria",
+  "name": "Bhandaria Upazila Health Complex",
+  "mobile": "01730324431"
+ },
+ {
+  "district": "Pirojpur",
+  "upazila": "Khwkhali",
+  "name": "Khwkhali Upazila Health Complex",
+  "mobile": "01730324432"
+ },
+ {
+  "district": "Pirojpur",
+  "upazila": "Mathbaria",
+  "name": "Mathbaria Upazila Health Complex",
+  "mobile": "01730324433"
+ },
+ {
+  "district": "Pirojpur",
+  "upazila": "Nasarabad",
+  "name": "Nasarabad Upazila Health Complex",
+  "mobile": "01730324434"
+ },
+ {
+  "district": "Pirojpur",
+  "upazila": "Nazirpur",
+  "name": "Nazirpur Upazila Health Complex",
+  "mobile": "01730324435"
+ },
+ {
+  "district": "Pirojpur",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324764"
+ },
+ {
+  "district": "Pirojpur",
+  "upazila": "Zia Nagar",
+  "name": "Zia Nagar Upazila Health Complex",
+  "mobile": "01730324880"
+ },
+ {
+  "district": "Rajbari",
+  "upazila": "Baliakandi",
+  "name": "Baliakandi Upazila Health Complex",
+  "mobile": "01730324548"
+ },
+ {
+  "district": "Rajbari",
+  "upazila": "Goalanda",
+  "name": "Goalanda Upazila Health Complex",
+  "mobile": "01730324549"
+ },
+ {
+  "district": "Rajbari",
+  "upazila": "Pangsha",
+  "name": "Pangsha Upazila Health Complex",
+  "mobile": "01730324550"
+ },
+ {
+  "district": "Rajbari",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324789"
+ },
+ {
+  "district": "Rajshahi",
+  "upazila": "Bagmara",
+  "name": "Bagmara Upazila Health Complex",
+  "mobile": "01730324700"
+ },
+ {
+  "district": "Rajshahi",
+  "upazila": "Bagha",
+  "name": "Bagha Upazila Health Complex",
+  "mobile": "01730324701"
+ },
+ {
+  "district": "Rajshahi",
+  "upazila": "Durgapur",
+  "name": "Durgapur Upazila Health Complex",
+  "mobile": "01730324703"
+ },
+ {
+  "district": "Rajshahi",
+  "upazila": "Godagari",
+  "name": "Godagari Upazila Health Complex",
+  "mobile": "01730324704"
+ },
+ {
+  "district": "Rajshahi",
+  "upazila": "Mohapur",
+  "name": "Mohapur Upazila Health Complex",
+  "mobile": "01730324705"
+ },
+ {
+  "district": "Rajshahi",
+  "upazila": "Paba",
+  "name": "Paba Upazila Health Complex",
+  "mobile": "01730324706"
+ },
+ {
+  "district": "Rajshahi",
+  "upazila": "Puthia",
+  "name": "Puthia Upazila Health Complex",
+  "mobile": "01730324707"
+ },
+ {
+  "district": "Rajshahi",
+  "upazila": "Tanore",
+  "name": "Tanore Upazila Health Complex",
+  "mobile": "01730324708"
+ },
+ {
+  "district": "Rajshahi",
+  "upazila": "Godagari",
+  "name": "Godagari 31 Bed Hospital",
+  "mobile": "01730324881"
+ },
+ {
+  "district": "Rangamati",
+  "upazila": "District Sadar",
+  "name": "General Hospital",
+  "mobile": "01730324775"
+ },
+ {
+  "district": "Rangamati",
+  "upazila": "Bagaichari",
+  "name": "Bagaichari Upazila Health Complex",
+  "mobile": "01811120499"
+ },
+ {
+  "district": "Rangamati",
+  "upazila": "Belaichari",
+  "name": "Belaichari Upazila Health Complex",
+  "mobile": "01552140399"
+ },
+ {
+  "district": "Rangamati",
+  "upazila": "Jhuraichari",
+  "name": "Jhuraichari Upazila Health Complex",
+  "mobile": "01552140398"
+ },
+ {
+  "district": "Rangamati",
+  "upazila": "Kaptai",
+  "name": "Kaptai Upazila Health Complex",
+  "mobile": "01811443516"
+ },
+ {
+  "district": "Rangamati",
+  "upazila": "Kowkhali",
+  "name": "Kowkhali Upazila Health Complex",
+  "mobile": "01730324872"
+ },
+ {
+  "district": "Rangamati",
+  "upazila": "Langadu",
+  "name": "Langadu Upazila Health Complex",
+  "mobile": "01811443519"
+ },
+ {
+  "district": "Rangamati",
+  "upazila": "Naniarchar",
+  "name": "Naniarchar Upazila Health Complex",
+  "mobile": "01811444606"
+ },
+ {
+  "district": "Rangamati",
+  "upazila": "Rajesthali",
+  "name": "Rajesthali Upazila Health Complex",
+  "mobile": "01811443517"
+ },
+ {
+  "district": "Rangamati",
+  "upazila": "Barkal",
+  "name": "Barkal Upazila Health Complex",
+  "mobile": "01552140397"
+ },
+ {
+  "district": "Rangpur",
+  "upazila": "Badarganj",
+  "name": "Badarganj Upazila Health Complex",
+  "mobile": "01730324709"
+ },
+ {
+  "district": "Rangpur",
+  "upazila": "Gangachara",
+  "name": "Gangachara Upazila Health Complex",
+  "mobile": "01730324710"
+ },
+ {
+  "district": "Rangpur",
+  "upazila": "Kawnia",
+  "name": "Kawnia Upazila Health Complex",
+  "mobile": "01730324711"
+ },
+ {
+  "district": "Rangpur",
+  "upazila": "Mithapukur",
+  "name": "Mithapukur Upazila Health Complex",
+  "mobile": "01730324712"
+ },
+ {
+  "district": "Rangpur",
+  "upazila": "Pirghacha",
+  "name": "Pirghacha Upazila Health Complex",
+  "mobile": "01730324713"
+ },
+ {
+  "district": "Rangpur",
+  "upazila": "Taraganj",
+  "name": "Taraganj Upazila Health Complex",
+  "mobile": "01730324715"
+ },
+ {
+  "district": "Rangpur",
+  "upazila": "Kawnia",
+  "name": "Haragach 31 Bed Hospital",
+  "mobile": "01730324882"
+ },
+ {
+  "district": "Rangpur",
+  "upazila": "Pirganj",
+  "name": "Pirganj Upazila Health Complex",
+  "mobile": "01730324714"
+ },
+ {
+  "district": "Satkhira",
+  "upazila": "Assasuni",
+  "name": "Assasuni Upazila Health Complex",
+  "mobile": "01730324614"
+ },
+ {
+  "district": "Satkhira",
+  "upazila": "Debhata",
+  "name": "Debhata Upazila Health Complex",
+  "mobile": "01730324615"
+ },
+ {
+  "district": "Satkhira",
+  "upazila": "Kaliganj",
+  "name": "Kaliganj Upazila Health Complex",
+  "mobile": "01730324616"
+ },
+ {
+  "district": "Satkhira",
+  "upazila": "Kolaroa",
+  "name": "Kolaroa Upazila Health Complex",
+  "mobile": "01730324617"
+ },
+ {
+  "district": "Satkhira",
+  "upazila": "Shymnagar",
+  "name": "Shymnagar Upazila Health Complex",
+  "mobile": "01730324618"
+ },
+ {
+  "district": "Satkhira",
+  "upazila": "Tala",
+  "name": "Tala Upazila Health Complex",
+  "mobile": "01730324619"
+ },
+ {
+  "district": "Satkhira",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324802"
+ },
+ {
+  "district": "Shariatpur",
+  "upazila": "Bhedarganj",
+  "name": "Bhedarganj Upazila Health Complex",
+  "mobile": "01730324551"
+ },
+ {
+  "district": "Shariatpur",
+  "upazila": "Damudiya",
+  "name": "Damudiya Upazila Health Complex",
+  "mobile": "01730324552"
+ },
+ {
+  "district": "Shariatpur",
+  "upazila": "Goshairhat",
+  "name": "Goshairhat Upazila Health Complex",
+  "mobile": "01730324553"
+ },
+ {
+  "district": "Shariatpur",
+  "upazila": "Naria",
+  "name": "Naria Upazila Health Complex",
+  "mobile": "01730324554"
+ },
+ {
+  "district": "Shariatpur",
+  "upazila": "Zanjira",
+  "name": "Zanjira Upazila Health Complex",
+  "mobile": "01730324555"
+ },
+ {
+  "district": "Sherpur",
+  "upazila": "Jhenaigati",
+  "name": "Jhenaigati Upazila Health Complex",
+  "mobile": "01730324556"
+ },
+ {
+  "district": "Sherpur",
+  "upazila": "Nakla",
+  "name": "Nakla Upazila Health Complex",
+  "mobile": "01730324557"
+ },
+ {
+  "district": "Sherpur",
+  "upazila": "Nalitabari",
+  "name": "Nalitabari Upazila Health Complex",
+  "mobile": "01730324558"
+ },
+ {
+  "district": "Sherpur",
+  "upazila": "Sribardi",
+  "name": "Sribardi Upazila Health Complex",
+  "mobile": "01730324559"
+ },
+ {
+  "district": "Sherpur",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324791"
+ },
+ {
+  "district": "Sirajganj",
+  "upazila": "Belkuchi",
+  "name": "Belkuchi Upazila Health Complex",
+  "mobile": "01730324716"
+ },
+ {
+  "district": "Sirajganj",
+  "upazila": "Chowhali",
+  "name": "Chowhali Upazila Health Complex",
+  "mobile": "01730324717"
+ },
+ {
+  "district": "Sirajganj",
+  "upazila": "Kamarkanda",
+  "name": "Kamarkanda Upazila Health Complex",
+  "mobile": "01730324718"
+ },
+ {
+  "district": "Sirajganj",
+  "upazila": "Kazipur",
+  "name": "Kazipur Upazila Health Complex",
+  "mobile": "01730324719"
+ },
+ {
+  "district": "Sirajganj",
+  "upazila": "Raiganj",
+  "name": "Raiganj Upazila Health Complex",
+  "mobile": "01730324720"
+ },
+ {
+  "district": "Sirajganj",
+  "upazila": "Shahajadpur",
+  "name": "Shahajadpur Upazila Health Complex",
+  "mobile": "01730324721"
+ },
+ {
+  "district": "Sirajganj",
+  "upazila": "Tarash",
+  "name": "Tarash Upazila Health Complex",
+  "mobile": "01730324722"
+ },
+ {
+  "district": "Sirajganj",
+  "upazila": "Ullapara",
+  "name": "Ullapara Upazila Health Complex",
+  "mobile": "01730324723"
+ },
+ {
+  "district": "Sirajganj",
+  "upazila": "District Sadar",
+  "name": "General Hospital",
+  "mobile": "01730324815"
+ },
+ {
+  "district": "Sunamganj",
+  "upazila": "Biswambarpur",
+  "name": "Biswambarpur Upazila Health Complex",
+  "mobile": "01730324740"
+ },
+ {
+  "district": "Sunamganj",
+  "upazila": "Chatak",
+  "name": "Chatak Upazila Health Complex",
+  "mobile": "01730324741"
+ },
+ {
+  "district": "Sunamganj",
+  "upazila": "Deerai",
+  "name": "Deerai Upazila Health Complex",
+  "mobile": "01730324742"
+ },
+ {
+  "district": "Sunamganj",
+  "upazila": "Dharmapasha",
+  "name": "Dharmapasha Upazila Health Complex",
+  "mobile": "01730324743"
+ },
+ {
+  "district": "Sunamganj",
+  "upazila": "Doarabazer",
+  "name": "Doarabazer Upazila Health Complex",
+  "mobile": "01730324744"
+ },
+ {
+  "district": "Sunamganj",
+  "upazila": "Jagannathpur",
+  "name": "Jagannathpur Upazila Health Complex",
+  "mobile": "01730324745"
+ },
+ {
+  "district": "Sunamganj",
+  "upazila": "Sulla",
+  "name": "Sulla Upazila Health Complex",
+  "mobile": "01730324747"
+ },
+ {
+  "district": "Sunamganj",
+  "upazila": "Taherpur",
+  "name": "Taherpur Upazila Health Complex",
+  "mobile": "01730324748"
+ },
+ {
+  "district": "Sunamganj",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324819"
+ },
+ {
+  "district": "Sunamganj",
+  "upazila": "Jamalganj",
+  "name": "Jamalganj Upazila Health Complex",
+  "mobile": "01730324746"
+ },
+ {
+  "district": "Sylhet",
+  "upazila": "Balaganj",
+  "name": "Balaganj Upazila Health Complex",
+  "mobile": "01730324749"
+ },
+ {
+  "district": "Sylhet",
+  "upazila": "Beanibazer",
+  "name": "Beanibazer Upazila Health Complex",
+  "mobile": "01730324750"
+ },
+ {
+  "district": "Sylhet",
+  "upazila": "Biswanath",
+  "name": "Biswanath Upazila Health Complex",
+  "mobile": "01730324751"
+ },
+ {
+  "district": "Sylhet",
+  "upazila": "Companiganj",
+  "name": "Companiganj Upazila Health Complex",
+  "mobile": "01730324752"
+ },
+ {
+  "district": "Sylhet",
+  "upazila": "Fenchuganj",
+  "name": "Fenchuganj Upazila Health Complex",
+  "mobile": "01730324753"
+ },
+ {
+  "district": "Sylhet",
+  "upazila": "Gowainghat",
+  "name": "Gowainghat Upazila Health Complex",
+  "mobile": "01730324755"
+ },
+ {
+  "district": "Sylhet",
+  "upazila": "Jointapur",
+  "name": "Jointapur Upazila Health Complex",
+  "mobile": "01730324756"
+ },
+ {
+  "district": "Sylhet",
+  "upazila": "Kanaighat",
+  "name": "Kanaighat Upazila Health Complex",
+  "mobile": "01730324757"
+ },
+ {
+  "district": "Sylhet",
+  "upazila": "Zokiganj",
+  "name": "Zokiganj Upazila Health Complex",
+  "mobile": "01730324758"
+ },
+ {
+  "district": "Sylhet",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324820"
+ },
+ {
+  "district": "Sylhet",
+  "upazila": "South Surma",
+  "name": "South Surma Upazila Health Complex",
+  "mobile": "01730324879"
+ },
+ {
+  "district": "Sylhet",
+  "upazila": "Golapganj",
+  "name": "Golapganj Upazila Health Complex",
+  "mobile": "01730324754"
+ },
+ {
+  "district": "Tangail",
+  "upazila": "Basail",
+  "name": "Basail Upazila Health Complex",
+  "mobile": "01730324560"
+ },
+ {
+  "district": "Tangail",
+  "upazila": "Bhuapur",
+  "name": "Bhuapur Upazila Health Complex",
+  "mobile": "01730324561"
+ },
+ {
+  "district": "Tangail",
+  "upazila": "Delduar",
+  "name": "Delduar Upazila Health Complex",
+  "mobile": "01730324562"
+ },
+ {
+  "district": "Tangail",
+  "upazila": "Ghatail",
+  "name": "Ghatail Upazila Health Complex",
+  "mobile": "01730324563"
+ },
+ {
+  "district": "Tangail",
+  "upazila": "Gopalpur",
+  "name": "Gopalpur Upazila Health Complex",
+  "mobile": "01730324564"
+ },
+ {
+  "district": "Tangail",
+  "upazila": "Kalihati",
+  "name": "Kalihati Upazila Health Complex",
+  "mobile": "01730324565"
+ },
+ {
+  "district": "Tangail",
+  "upazila": "Mirzapur",
+  "name": "Mirzapur Upazila Health Complex",
+  "mobile": "01730324566"
+ },
+ {
+  "district": "Tangail",
+  "upazila": "Modhupur",
+  "name": "Modhupur Upazila Health Complex",
+  "mobile": "01730324567"
+ },
+ {
+  "district": "Tangail",
+  "upazila": "Nagarpur",
+  "name": "Nagarpur Upazila Health Complex",
+  "mobile": "01730324568"
+ },
+ {
+  "district": "Tangail",
+  "upazila": "Sakhipur",
+  "name": "Sakhipur Upazila Health Complex",
+  "mobile": "01730324569"
+ },
+ {
+  "district": "Tangail",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324792"
+ },
+ {
+  "district": "Tangail",
+  "upazila": "Dhanbari",
+  "name": "Dhanbari Upazila Health Complex",
+  "mobile": "01730324876"
+ },
+ {
+  "district": "Thakurgaon",
+  "upazila": "Baliadangi",
+  "name": "Baliadangi Upazila Health Complex",
+  "mobile": "01730324724"
+ },
+ {
+  "district": "Thakurgaon",
+  "upazila": "Haripur",
+  "name": "Haripur Upazila Health Complex",
+  "mobile": "01730324725"
+ },
+ {
+  "district": "Thakurgaon",
+  "upazila": "Pirganj",
+  "name": "Pirganj Upazila Health Complex",
+  "mobile": "01730324726"
+ },
+ {
+  "district": "Thakurgaon",
+  "upazila": "Ranisankhail",
+  "name": "Ranisankhail Upazila Health Complex",
+  "mobile": "01730324727"
+ },
+ {
+  "district": "Thakurgaon",
+  "upazila": "District Sadar",
+  "name": "District Hospital",
+  "mobile": "01730324816"
+ }
+]

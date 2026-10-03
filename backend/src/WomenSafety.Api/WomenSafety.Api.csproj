@@ -19,4 +19,9 @@
     <ProjectReference Include="..\WomenSafety.Application\WomenSafety.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <!-- Aggregated directory dataset (police stations, hospitals, centres) -->
+    <Content Update="Data\*.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
 </Project>

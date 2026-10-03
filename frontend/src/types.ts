@@ -64,7 +64,10 @@ export type DirectoryCategory =
   | "SAFE_PLACE"
   | "SHELTER"
   | "ONE_STOP"
-  | "GOVERNMENT";
+  | "GOVERNMENT"
+  | "WOMEN_CENTRE"
+  | "HELP_CENTRE"
+  | "WOMEN_POLICE_DESK";
 
 export type OtpPurpose = "REGISTER" | "LOGIN" | "RESET_PASSWORD" | "PHONE_VERIFY";
 

@@ -32,7 +32,7 @@ public class DirectoryController : ControllerBase
         [FromQuery] int take = 200,
         CancellationToken ct = default)
     {
-        take = Math.Clamp(take, 1, 500);
+        take = Math.Clamp(take, 1, 2000);
         var query = _db.ServiceDirectoryEntries.AsNoTracking();
 
         if (category is not null) query = query.Where(e => e.Category == category);
@@ -41,7 +41,10 @@ public class DirectoryController : ControllerBase
         if (!string.IsNullOrWhiteSpace(q))
         {
             var needle = q.Trim();
-            query = query.Where(e => e.NameEn.Contains(needle) || e.NameBn.Contains(needle));
+            query = query.Where(e =>
+                e.NameEn.Contains(needle) || e.NameBn.Contains(needle) ||
+                (e.AddressEn != null && e.AddressEn.Contains(needle)) ||
+                (e.AddressBn != null && e.AddressBn.Contains(needle)));
         }
 
         var districts = await _db.Districts.AsNoTracking().ToDictionaryAsync(d => d.Id, ct);

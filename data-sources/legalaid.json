@@ -1,0 +1,368 @@
+{
+ "Dhaka": {
+  "district": "Dhaka",
+  "slug": "dhaka",
+  "phone": "01700784271",
+  "url": "https://dhaka.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Gazipur": {
+  "district": "Gazipur",
+  "slug": "gazipur",
+  "phone": "017007842722",
+  "url": "https://gazipur.judiciary.gov.bd/bn/menu/page/district-legal-aid-office"
+ },
+ "Kishoreganj": {
+  "district": "Kishoreganj",
+  "slug": "kishoreganj",
+  "phone": "01700784278",
+  "url": "https://kishoreganj.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Manikganj": {
+  "district": "Manikganj",
+  "slug": "manikganj",
+  "phone": "02996610569",
+  "url": "https://manikganj.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Munshiganj": {
+  "district": "Munshiganj",
+  "slug": "munshiganj",
+  "phone": "02997732697",
+  "url": "https://munshiganj.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Narayanganj": {
+  "district": "Narayanganj",
+  "slug": "narayanganj",
+  "phone": "019209974643",
+  "url": "https://narayanganj.judiciary.gov.bd/bn/menu/page/district-legal-aid-office"
+ },
+ "Narsingdi": {
+  "district": "Narsingdi",
+  "slug": "narsingdi",
+  "phone": "022277230582",
+  "url": "https://narsingdi.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Tangail": {
+  "district": "Tangail",
+  "slug": "tangail",
+  "phone": null,
+  "url": "https://tangail.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Faridpur": {
+  "district": "Faridpur",
+  "slug": "faridpur",
+  "phone": "01714677461",
+  "url": "https://faridpur.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Gopalganj": {
+  "district": "Gopalganj",
+  "slug": "gopalganj",
+  "phone": "01700784281",
+  "url": "https://gopalganj.judiciary.gov.bd/bn/menu/page/district-legal-aid-office"
+ },
+ "Madaripur": {
+  "district": "Madaripur",
+  "slug": "madaripur",
+  "phone": "01742203424",
+  "url": "https://madaripur.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Rajbari": {
+  "district": "Rajbari",
+  "slug": "rajbari",
+  "phone": "01717659410",
+  "url": "https://rajbari.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Shariatpur": {
+  "district": "Shariatpur",
+  "slug": "shariatpur",
+  "phone": "01700784283",
+  "url": "https://shariatpur.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Chattogram": {
+  "district": "Chattogram",
+  "slug": "chattogram",
+  "phone": "02333361841",
+  "url": "https://chattogram.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Cox's Bazar": {
+  "district": "Cox's Bazar",
+  "slug": "coxsbazar",
+  "phone": "01701267387",
+  "url": "https://coxsbazar.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Bandarban": {
+  "district": "Bandarban",
+  "slug": "bandarban",
+  "phone": "02333302649",
+  "url": "https://bandarban.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Rangamati": {
+  "district": "Rangamati",
+  "slug": "rangamati",
+  "phone": null,
+  "url": "https://rangamati.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Khagrachhari": {
+  "district": "Khagrachhari",
+  "slug": "khagrachhari",
+  "phone": "02333343970",
+  "url": "https://khagrachhari.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Feni": {
+  "district": "Feni",
+  "slug": "feni",
+  "phone": "01701267386",
+  "url": "https://feni.judiciary.gov.bd/bn/menu/page/district-legal-aid-office"
+ },
+ "Lakshmipur": {
+  "district": "Lakshmipur",
+  "slug": "lakshmipur",
+  "phone": "01911171723",
+  "url": "https://lakshmipur.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Cumilla": {
+  "district": "Cumilla",
+  "slug": "cumilla",
+  "phone": "01737042517",
+  "url": "https://cumilla.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Brahmanbaria": {
+  "district": "Brahmanbaria",
+  "slug": "brahmanbaria",
+  "phone": "01762491464",
+  "url": "https://brahmanbaria.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Chandpur": {
+  "district": "Chandpur",
+  "slug": "chandpur",
+  "phone": "01772791417",
+  "url": "https://chandpur.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Rajshahi": {
+  "district": "Rajshahi",
+  "slug": "rajshahi",
+  "phone": "017185074212",
+  "url": "https://rajshahi.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Bogura": {
+  "district": "Bogura",
+  "slug": "bogura",
+  "phone": "01728677696",
+  "url": "https://bogura.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Naogaon": {
+  "district": "Naogaon",
+  "slug": "naogaon",
+  "phone": "017579886803",
+  "url": "https://naogaon.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Natore": {
+  "district": "Natore",
+  "slug": "natore",
+  "phone": null,
+  "url": "https://natore.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Chapainawabganj": {
+  "district": "Chapainawabganj",
+  "slug": "chapainawabganj",
+  "phone": "017007842892",
+  "url": "https://chapainawabganj.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Pabna": {
+  "district": "Pabna",
+  "slug": "pabna",
+  "phone": "017007842922",
+  "url": "https://pabna.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Sirajganj": {
+  "district": "Sirajganj",
+  "slug": "sirajganj",
+  "phone": "017112737952",
+  "url": "https://sirajganj.judiciary.gov.bd/bn/menu/page/district-legal-aid-office"
+ },
+ "Joypurhat": {
+  "district": "Joypurhat",
+  "slug": "joypurhat",
+  "phone": "02589915493",
+  "url": "https://joypurhat.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Khulna": {
+  "district": "Khulna",
+  "slug": "khulna",
+  "phone": null,
+  "url": "https://khulna.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Bagerhat": {
+  "district": "Bagerhat",
+  "slug": "bagerhat",
+  "phone": null,
+  "url": "https://bagerhat.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Satkhira": {
+  "district": "Satkhira",
+  "slug": "satkhira",
+  "phone": "01700784305",
+  "url": "https://satkhira.judiciary.gov.bd/bn/menu/page/district-legal-aid-office"
+ },
+ "Jashore": {
+  "district": "Jashore",
+  "slug": "jashore",
+  "phone": "01700784307",
+  "url": "https://jashore.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Jhenaidah": {
+  "district": "Jhenaidah",
+  "slug": "jhenaidah",
+  "phone": "01700784308",
+  "url": "https://jhenaidah.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Magura": {
+  "district": "Magura",
+  "slug": "magura",
+  "phone": "01772562239",
+  "url": "https://magura.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Narail": {
+  "district": "Narail",
+  "slug": "narail",
+  "phone": "01711479171",
+  "url": "https://narail.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Kushtia": {
+  "district": "Kushtia",
+  "slug": "kushtia",
+  "phone": "01757250609",
+  "url": "https://kushtia.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Chuadanga": {
+  "district": "Chuadanga",
+  "slug": "chuadanga",
+  "phone": "024777875442",
+  "url": "https://chuadanga.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Meherpur": {
+  "district": "Meherpur",
+  "slug": "meherpur",
+  "phone": null,
+  "url": "https://meherpur.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Barishal": {
+  "district": "Barishal",
+  "slug": "barishal",
+  "phone": "017393032222",
+  "url": "https://barishal.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Patuakhali": {
+  "district": "Patuakhali",
+  "slug": "patuakhali",
+  "phone": null,
+  "url": "https://patuakhali.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Bhola": {
+  "district": "Bhola",
+  "slug": "bhola",
+  "phone": "01700784315",
+  "url": "https://bhola.judiciary.gov.bd/bn/menu/page/district-legal-aid-office"
+ },
+ "Pirojpur": {
+  "district": "Pirojpur",
+  "slug": "pirojpur",
+  "phone": "01718776002",
+  "url": "https://pirojpur.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Barguna": {
+  "district": "Barguna",
+  "slug": "barguna",
+  "phone": "01760775790",
+  "url": "https://barguna.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Jhalokati": {
+  "district": "Jhalokati",
+  "slug": "jhalokati",
+  "phone": null,
+  "url": "https://jhalokati.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Sylhet": {
+  "district": "Sylhet",
+  "slug": "sylhet",
+  "phone": null,
+  "url": "https://sylhet.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Moulvibazar": {
+  "district": "Moulvibazar",
+  "slug": "moulvibazar",
+  "phone": null,
+  "url": "https://moulvibazar.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Habiganj": {
+  "district": "Habiganj",
+  "slug": "habiganj",
+  "phone": "01701267393",
+  "url": "https://habiganj.judiciary.gov.bd/bn/menu/page/district-legal-aid-office"
+ },
+ "Sunamganj": {
+  "district": "Sunamganj",
+  "slug": "sunamganj",
+  "phone": null,
+  "url": "https://sunamganj.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Rangpur": {
+  "district": "Rangpur",
+  "slug": "rangpur",
+  "phone": "0258961417",
+  "url": "https://rangpur.judiciary.gov.bd/bn/menu/page/district-legal-aid-office"
+ },
+ "Dinajpur": {
+  "district": "Dinajpur",
+  "slug": "dinajpur",
+  "phone": "01737153318",
+  "url": "https://dinajpur.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Thakurgaon": {
+  "district": "Thakurgaon",
+  "slug": "thakurgaon",
+  "phone": "01738376010",
+  "url": "https://thakurgaon.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Panchagarh": {
+  "district": "Panchagarh",
+  "slug": "panchagarh",
+  "phone": "01724679650",
+  "url": "https://panchagarh.judiciary.gov.bd/bn/menu/page/district-legal-aid-office"
+ },
+ "Nilphamari": {
+  "district": "Nilphamari",
+  "slug": "nilphamari",
+  "phone": "017400520663",
+  "url": "https://nilphamari.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Lalmonirhat": {
+  "district": "Lalmonirhat",
+  "slug": "lalmonirhat",
+  "phone": null,
+  "url": "https://lalmonirhat.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Kurigram": {
+  "district": "Kurigram",
+  "slug": "kurigram",
+  "phone": "01751153430",
+  "url": "https://kurigram.judiciary.gov.bd/bn/menu/page/district-legal-aid-office"
+ },
+ "Mymensingh": {
+  "district": "Mymensingh",
+  "slug": "mymensingh",
+  "phone": null,
+  "url": "https://mymensingh.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Jamalpur": {
+  "district": "Jamalpur",
+  "slug": "jamalpur",
+  "phone": "01644336722",
+  "url": "https://jamalpur.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ },
+ "Sherpur": {
+  "district": "Sherpur",
+  "slug": "sherpur",
+  "phone": "01730265527",
+  "url": "https://sherpur.judiciary.gov.bd/en/menu/page/district-legal-aid-office"
+ }
+}

@@ -10,6 +10,9 @@ import { Badge, Card, EmptyState, ErrorState, PageHeader, Spinner } from "../com
 const CATEGORIES: DirectoryCategory[] = [
   "POLICE",
   "HOSPITAL",
+  "WOMEN_POLICE_DESK",
+  "WOMEN_CENTRE",
+  "HELP_CENTRE",
   "FIRE_SERVICE",
   "AMBULANCE",
   "LEGAL_AID",
@@ -19,6 +22,23 @@ const CATEGORIES: DirectoryCategory[] = [
   "ONE_STOP",
   "GOVERNMENT",
 ];
+
+/** i18n lookup keys for each directory category (falls back to humanized English). */
+const CATEGORY_KEYS: Record<DirectoryCategory, string> = {
+  POLICE: "police",
+  HOSPITAL: "hospital",
+  FIRE_SERVICE: "fire",
+  AMBULANCE: "ambulance",
+  LEGAL_AID: "legalAid",
+  COUNSELING: "counseling",
+  SAFE_PLACE: "safePlaces",
+  SHELTER: "shelter",
+  ONE_STOP: "oneStop",
+  GOVERNMENT: "government",
+  WOMEN_CENTRE: "womenCentre",
+  HELP_CENTRE: "helpCentre",
+  WOMEN_POLICE_DESK: "womenPoliceDesk",
+};
 
 export function DirectoryPage() {
   const { t, lang } = useI18n();
@@ -31,10 +51,13 @@ export function DirectoryPage() {
 
   const divisions = useAsync<Division[]>(() => http.get<Division[]>("/api/districts"), []);
 
+  const catLabel = (category: string) =>
+    t(CATEGORY_KEYS[category as DirectoryCategory] ?? humanize(category));
+
   const entries = useAsync<DirectoryEntry[]>(
     () =>
       http.get<DirectoryEntry[]>(
-        `/api/directory${qs({ category, q: query, districtId, lang, take: 300 })}`
+        `/api/directory${qs({ category, q: query, districtId, lang, take: 2000 })}`
       ),
     [category, query, districtId, lang]
   );
@@ -99,7 +122,7 @@ export function DirectoryPage() {
                 <div>
                   <strong>{row.name}</strong>
                   <div className="meta">
-                    {humanize(row.category)} · {fmtDistance(row.distanceMeters)}
+                    {catLabel(row.category)} · {fmtDistance(row.distanceMeters)}
                     {row.is24x7 ? ` · ${t("open24x7")}` : ""}
                   </div>
                 </div>
@@ -145,7 +168,7 @@ export function DirectoryPage() {
               <option value="">{t("categoryAll")}</option>
               {CATEGORIES.map((value) => (
                 <option key={value} value={value}>
-                  {humanize(value)}
+                  {catLabel(value)}
                 </option>
               ))}
             </select>
@@ -168,6 +191,12 @@ export function DirectoryPage() {
         </div>
       </Card>
 
+      {!entries.loading && !entries.error ? (
+        <p className="muted" style={{ margin: "10px 0" }}>
+          {(entries.data ?? []).length} {t("showingResults")}
+        </p>
+      ) : null}
+
       {entries.loading ? (
         <Spinner />
       ) : entries.error ? (
@@ -186,7 +215,7 @@ export function DirectoryPage() {
                 </div>
               </div>
               <p className="muted" style={{ marginTop: 4 }}>
-                {humanize(entry.category)}
+                {catLabel(entry.category)}
                 {entry.districtName ? ` · ${entry.districtName}` : ""}
               </p>
               {entry.address ? <p className="muted">{entry.address}</p> : null}
